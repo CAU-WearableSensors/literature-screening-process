@@ -1,0 +1,2346 @@
+TY  - JOUR
+TI  - Validation of a new textile sensor band for on-farm heart rate variability assessment in calves.
+AU  - Turini, Luca
+AU  - Pesenti Rossi, Gaia
+AU  - Sala, Giulia
+AU  - Foggi, Giulia
+AU  - Gislon, Giulia
+AU  - Mondini, Sara
+AU  - Barbieri, Sara
+AU  - Calonaci, Sara
+AU  - Canali, Elisabetta
+AU  - Bonelli, Francesca
+AU  - Mele, Marcello
+T2  - The veterinary quarterly
+AB  - Heart rate variability (HRV) has been studied as an indicator of stress and welfare in various species, including dairy calves, where significant changes in  HRV were linked to cow-calf separation, isolation and disbudding. Wearable bands  with smart textiles biotechnology offer a promising, low-stress alternative due  to their comfort and ease of use without shaving or taping. The aim of this study  was to examine if smart textiles biotechnology could be compared to a Standard  base-apex ECG for measuring HRV in dairy calves. Twenty healthy Italian Holstein  calves aged (20-60 days old) were recruited. Standard base-apex ECG and Smartex  ECG were simultaneously acquired for 16 min in the standing, unsedated, unclipped  calves. After extracting HRV parameters, comparisons were made using time,  frequency, and nonlinear analyses. Agreement between devices was assessed using  the Bland-Altman test and Spearman's 𝜚 correlations. Sperman's 𝜚 showed a very  strong correlation for Mean RR, SDNN and LF (p value < .001), and a strong  correlation for RMSSD, LF/HF and SampEn, indicating the most stable relationship  between the two systems. Smart textiles biotechnology can be used for HRV  measurement in calves, offering a valuable tool for animal welfare assessment.
+CY  - England
+DA  - 2025///
+PY  - 2025
+DO  - 10.1080/01652176.2025.2569550
+VL  - 45
+IS  - 1
+SP  - 2569550
+J2  - Vet Q
+LA  - eng
+SN  - 1875-5941 0165-2176
+AN  - rayyan-559204971
+Y2  - 0012/01/01/
+N1  - <p>Times Cited in Web of Science Core Collection:&nbsp;&nbsp;0<br/>Total Times Cited:&nbsp;&nbsp;0<br/>Cited Reference Count:&nbsp;&nbsp;30</p> | RAYYAN-INCLUSION: {"Maosong"=>"Included"}
+KW  - Animal welfare
+KW  - Animals
+KW  - Precision livestock farming
+KW  - Animal Welfare
+KW  - Male
+KW  - ECG
+KW  - *Electrocardiography/veterinary/instrumentation
+KW  - *Heart Rate/physiology
+KW  - *Textiles
+KW  - *Wearable Electronic Devices/veterinary
+KW  - Calves
+KW  - Cattle/physiology
+KW  - HRV
+KW  - On-farm monitoring
+KW  - Textile sensor band
+KW  - Wearable technology
+KW  - DAIRY-COWS
+KW  - CORRELATION-COEFFICIENTS
+KW  - STRESS
+KW  - WELFARE
+ER  - 
+
+TY  - JOUR
+TI  - Relationships between paddock-level pasture mass and cow data derived from GPS and behavior-monitoring on-animal sensors in rotationally grazed dairy systems
+AU  - Hendriks, S.J.
+AU  - Qasim, M.
+AU  - Edwards, J.P.
+T2  - Journal of Dairy Science
+AB  - ABSTRACT     Data from behavior-monitoring and location (global positioning system) devices fitted to dairy cows may improve our understanding of how animal behavior and movement are associated with feed availability and quality. We hypothesized that data from behavior-monitoring and location sensors may be associated with feed availability in a paddock within a rotationally grazed dairy system. To investigate this, 100 cows were randomly assigned to one of 4 groups (n = 25 cows per group) and allocated to different target pasture allocations to meet either 80%, 100%, or 120% of their estimated ME requirements across 2 experimental periods (n = 20 d per experimental period), during late spring (experimental period 1; November 7 to November 26, 2021) and late summer (experimental period 2; February 27 to March 18, 2022). During both periods, all 4 groups were allocated 100% of ME requirements for 5 d (baseline). Then, 2 groups were under-allocated (80%), whereas the other 2 groups were over-allocated (120%) for 5 d. Subsequently, all groups returned to baseline for 5 d (100%), followed by a switch, where the under-allocated groups were over-allocated, and vice versa, for the final 5 d. Each cow was fitted with 5 devices that were commercially available in New Zealand and measured rumination, eating, grazing, and lying time, and activity. One device also determined cows' location, and these data were used to derive 3 additional behaviors: distance traveled, mean distance to herd mates, and proximity. These data were used as independent variables to build linear models with pasture mass as the response, which was estimated during the experiment using a calibrated rising plate meter. Distance traveled, standardized by pasture area allocated, was an important variable for explaining the variance in paddock-level pasture mass, alongside mean distance to herd mates and rumination time. Using location variables alone (distance traveled and distance to herd mates), adjusted R2 values were 0.38 and 0.40 for both pre- and postgrazing pasture mass (kg DM/cow), respectively. Further, including both location and behavior, model fit improved due to greater variation in pasture mass explained by these independent variables. The best linear model (adjusted R2 = 0.58) was for postgrazing pasture mass (kg DM/cow) with standardized distance traveled, distance to herd mates, and rumination time included as the independent variables. Model fit varied depending on location and behavior variables included, and devices lacking behavior data related to ingestion and mastication of feed (e.g., rumination, grazing, or eating data) were generally poorer performers. Our results demonstrate the additional value that location-based data can provide. Irrespective of this, predictive potential may be limited due to a moderate amount of variation in pasture mass explained by data from behavior-monitoring and location sensors using linear modeling approaches. Therefore, this method may not be suitably accurate to make near real-time grazing management decisions, but the results are promising as a concept.
+DA  - 2025///
+PY  - 2025
+DO  - 10.3168/jds.2024-25391
+VL  - 108
+IS  - 2
+SP  - 1644
+EP  - 1658
+J2  - Journal of Dairy Science
+SN  - 0022-0302
+UR  - https://www.sciencedirect.com/science/article/pii/S0022030224013535
+AN  - rayyan-559205039
+Y2  - 0002/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - precision livestock farming
+KW  - wearables
+KW  - animal behavior
+KW  - GPS location
+KW  - pasture mass
+ER  - 
+
+TY  - JOUR
+TI  - Monitoring Welfare of Individual Broiler Chickens Using Ultra-Wideband and Inertial Measurement Unit Wearables
+AU  - Khan, I
+AU  - Peralta, D
+AU  - Fontaine, J
+AU  - de Carvalho, PS
+AU  - Martinez-Caja, AM
+AU  - Antonissen, G
+AU  - Tuyttens, F
+AU  - De Poorter, E
+T2  - SENSORS
+AB  - Monitoring animal welfare on farms and in research settings is attracting increasing interest, both for ethical reasons and for improving productivity through the early detection of stress or diseases. In contrast to video-based monitoring, which requires good light conditions and has difficulty tracking specific animals, recent advances in the miniaturization of wearable devices allow for the collection of acceleration and location data to track individual animal behavior. However, for broilers, there are several challenges to address when using wearables, such as coping with (i) the large numbers of chickens in commercial farms,(ii)the impact of their rapid growth, and (iii) the small weights that the devices must have to be carried by the chickens without any impact on their health or behavior. To this end, this paper describes a pilot study in which chickens were fitted with devices containing an Inertial Measurement Unit (IMU) and an Ultra-Wideband (UWB) sensor. To establish guidelines for practitioners who want to monitor broiler welfare and activity at different scales, we first compare the attachment methods of the wearables to the broiler chickens, taking into account their effectiveness (in terms of retention time) and their impact on the broiler's welfare. Then, we establish the technical requirements to carry out such a study, and the challenges that may arise. This analysis involves aspects such as noise estimation, synergy between UWB and IMU, and the measurement of activity levels based on the monitoring of chicken activity. We show that IMU data can be used for detecting activity level differences between individual animals and environmental conditions. UWB data can be used to monitor the positions and movement patterns of up to 200 animals simultaneously with an accuracy of less than 20 cm. We also show that the accuracy depends on installation aspects and that errors are larger at the borders of the monitored area. Attachment with sutures had the longest mean retention of 19.5 days, whereas eyelash glue had the shortest mean retention of 3 days. To conclude the paper, we identify current challenges and future research lines in the field.
+DA  - 2025///
+PY  - 2025
+DO  - 10.3390/s25030811
+VL  - 25
+IS  - 3
+LA  - English
+SN  - 1424-8220
+AN  - rayyan-559205601
+Y2  - 0002/01/01/
+N1  - <p>Times Cited in Web of Science Core Collection:&nbsp;&nbsp;8<br/>Total Times Cited:&nbsp;&nbsp;8<br/>Cited Reference Count:&nbsp;&nbsp;34</p> | RAYYAN-INCLUSION: {"Maosong"=>"Included"}
+KW  - animal welfare
+KW  - wearable
+KW  - accelerometer
+KW  - IMU
+KW  - SYSTEM
+KW  - BEHAVIOR
+KW  - broilers
+KW  - chickens
+KW  - UWB
+ER  - 
+
+TY  - JOUR
+TI  - High-performance flexible wearable electronics for sheep physiological information wireless sensing and health assessment
+AU  - Yin, Maosong
+AU  - Ma, Ruiqin
+AU  - Huang, Wentao
+AU  - Chi, Fumin
+AU  - Zhao, Qinan
+AU  - Zhang, Mengjie
+T2  - Computers and Electronics in Agriculture
+AB  - Accurately tracking the physiological information of farm animals is an important step in achieving precision livestock farming, and animal wearable devices provide a convenient and practical way to monitor and manage animals. To overcome the problem of the large size and heavy mass of rigid wearables, the objective of this paper is to develop high-performance flexible wearable electronics (HFWE) for sheep farming. This system integrates multiple sensors and is designed to be compact, lightweight, and comfortable to wear. It collects body temperature, blood oxygen saturation and step count and transmits the data to a wireless smart terminal. Additionally, a sheep health assessment model was constructed based on Analytic Hierarchy Process (AHP) and supervised learning networks (GA-BPNN, PSO-BPNN). The results demonstrated that: (1) Through simulation and actual testing, the HFWE has excellent flexibility and robustness (2) The HFWE performs well in continuously collecting physiological data, and the stability and coefficient of variation (CV) of blood oxygen saturation are (93.5 ± 0.9) % and 1.8 %, respectively. The stability and CV of body temperature reach (37.1 ± 0.2) ℃ and 0.6 %, respectively. (3) AHP model provides a basis for dividing health labels. In terms of GA-BPNN and PSO-BPNN model, although the two optimization strategies differed, both achieved an overall accuracy of over 97 %. This significantly enhances transparency in animal health status, and has the potential to safeguard animal welfare. Therefore, this study provides theoretical and technical support for physiological detection and health assessment of farm animals, which is conducive to the sustainable development of the precision livestock industry.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.compag.2025.109917
+VL  - 231
+SP  - 109917
+J2  - Computers and Electronics in Agriculture
+SN  - 0168-1699
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169925000237
+AN  - rayyan-559205044
+Y2  - 0004/01/01/
+N1  - <p>Times Cited in Web of Science Core Collection:&nbsp;&nbsp;6<br/>Total Times Cited:&nbsp;&nbsp;7<br/>Cited Reference Count:&nbsp;&nbsp;33</p> | RAYYAN-INCLUSION: {"Maosong"=>"Included"}
+KW  - Supervised learning
+KW  - Farm animals
+KW  - Flexible electronics
+KW  - Health precise tracking
+KW  - Wearable multi-sensor
+ER  - 
+
+TY  - JOUR
+TI  - An open-source lightweight ear-tag mounted sensor for ML-based real-time monitoring of dairy calf activity
+AU  - Ouannes, Amenallah Massarra
+AU  - Mascret, Quentin
+AU  - Petit, Étienne
+AU  - Bousselmi, Asma
+AU  - Gagnon-Turcotte, Gabriel
+AU  - Ahloy-Dallaire, Jamie
+AU  - Gosselin, Benoit
+AU  - Paquet, Eric R.
+T2  - Smart Agricultural Technology
+AB  - Monitoring the activities of individual dairy calves is crucial for assessing their welfare and detecting early signs of disease. However, traditional observation methods used by producers are labor-intensive and often fail to capture subtle behavioral changes. Precision livestock farming has introduced various sensor- and video-based monitoring tools, such as commercial activity trackers, RFID systems, and proprietary video platforms. However, many of these solutions are invasive, lack robustness, or are closed-source, which limits adaptability and makes it difficult for researchers to build upon or customize them. In this study, we present a novel, open-source, lightweight ear-tag-mounted sensor designed for real-time monitoring of calf activity. This device integrates seamlessly with machine learning models to offer an automated, non-invasive approach to closely monitor calf activity. The system utilizes the open-source RuuviTag-based sensor housed in a newly designed casing that does not require any additional ear piercing, reducing animal discomfort and pain. The sensor captures triaxial acceleration data at 10Hz, which is transmitted to a Raspberry Pi 4 for preprocessing before being analyzed by machine learning algorithms. These models classify calf activities into three key behavioral states: lying, standing, and drinking. Experiments were conducted on five dairy calves on a commercial farm in Quebec, Canada over one week. While initial simpler models like random forest showed promise with accuracy of 72.5%, a long short-term memory (LSTM) model achieved the highest accuracy of 99% on the test and an average of 93.5% in leave-one-calf-out evaluations, which tests the model's performance on a calf it has never seen before. These promising results highlight the potential of this open-source technology to enhance early disease detection and improve calf welfare through continuous, automated open-source monitoring.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.atech.2025.101444
+VL  - 12
+SP  - 101444
+J2  - Smart Agricultural Technology
+SN  - 2772-3755
+UR  - https://www.sciencedirect.com/science/article/pii/S2772375525006756
+AN  - rayyan-559205027
+Y2  - 0012/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Random forest
+KW  - Calf activity recognition
+KW  - Ear-tag sensors
+KW  - Health monitoring
+KW  - LSTM
+KW  - ML-based classification
+KW  - Time-series analysis
+ER  - 
+
+TY  - JOUR
+TI  - Using tri-axial accelerometers data to predict behavior activity of grazing donkeys
+AU  - Congiu, Michele
+AU  - Cesarani, Alberto
+AU  - Macciotta, Nicolò Pietro Paolo
+AU  - Rassu, Salvatore Pier Giacomo
+AU  - Giovanetti, Valeria
+AU  - Dimauro, Corrado
+T2  - Computers and Electronics in Agriculture
+AB  - Precision livestock farming technologies represent important tools for farmers to remotely monitor animal behavior while grazing. In this study, three important activities of donkeys at pasture (grazing, walking, and resting) were assessed by analyzing data collected with a tri-axial accelerometer using both univariate and multivariate statistical methods. Eleven donkeys were equipped with the accelerometer attached to their collars. The device was programmed to record acceleration values every second across the three Cartesian directions. Data were organized into various time intervals known as epochs: 15, 30, 60, 90, 120, 150, and 180 s. Raw data were processed for each epoch to compute 12 variables: three mean values, three variances, three inverted coefficients of variation and three across-axes values.Univariate ANOVA was conducted to test the effect of behavioral activities (grazing, walking, and resting) on each of the twelve variables. Canonical discriminant analysis (CDA) was subsequently employed to differentiate the three activities and assign time epochs to the corresponding behavior. In the ANOVA model, the behavior factor was significant (P-value < 0.01) for all twelve variables, although grazing and resting did not show significant differences in the inverted coefficients of variation. CDA effectively distinguished the three behavioral activities (Hotelling’s t-test < 0.001) across all epochs. The best performances in assigning time points to the correct behavior were achieved with longer time epochs, such as 120 and 150 s, resulting in overall errors of 9 and 10 %, respectively. During these epochs, the overall accuracy reached approximately 91 and 90 %. The tri-axial accelerometers data, analyzed using multivariate statistical techniques, successfully classified the behavior of donkeys at pasture, thereby providing valuable insights for farmers.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1016/j.compag.2024.109582
+VL  - 227
+SP  - 109582
+J2  - Computers and Electronics in Agriculture
+SN  - 0168-1699
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169924009736
+AN  - rayyan-559205180
+Y2  - 0012/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Accelerometer
+KW  - Discriminant analysis
+KW  - Donkey
+KW  - Feeding behavior
+ER  - 
+
+TY  - JOUR
+TI  - Technical Report: Development and validation of continuous monitoring system for calves based on commercially available sensor for humans
+AU  - Debruyne, Florian
+AU  - Bokma, Jade
+AU  - Staessens, Tom
+AU  - Peña Fernández, Alberto
+AU  - Berckmans, Daniel
+AU  - Pardon, Bart
+AU  - Van Steenkiste, Glenn
+T2  - Computers and Electronics in Agriculture
+AB  - In the last decade, development of continuous sensor based monitoring systems for farm animals (Precision Livestock Farming (PLF)) has markedly increased with the aim to automate and improve disease detection. In calves, multiple technologies exist, but most detect only a single parameter, and none are available for continuous heart rate and electrocardiogram (ECG). The objective of this paper was to develop and validate a sensor system, derived from a commercially available sensor for humans, for heart (ECG, heart rate), movement (inertial measurement unit with nine degrees of freedom (IMU9)) and temperature data. Data is sent over Bluetooth Low Energy (BLE) to a gateway equipped with a built-in camera for monitoring individual calves. The gateway transmits the data using the Message Queuing Telemetry Transport (MQTT) protocol to a server for long term storage. The data can also be shown on a real-time dashboard. Results indicate a very high correlation for heart rate compared with a widely used veterinary sensor (Pearson correlation coefficient (r) = 0.98), and a high level of accuracy for the movement data for lying versus standing detection (94.3 %). However, a lower correlation between sensor temperature and rectal temperature measurements was observed (r = 0.56). In conclusion, the adapted Movesense system exhibits the capability to accurately measure heart rate and detect the position (lying – standing) of calves but was insufficient as such for temperature monitoring. This sensor system has potential not only for disease detection, but equally for continuous, non-invasive heart rate monitoring, which can be used as an indicator (besides others) for animal welfare.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1016/j.compag.2024.108765
+VL  - 219
+SP  - 108765
+J2  - Computers and Electronics in Agriculture
+SN  - 0168-1699
+UR  - https://www.sciencedirect.com/science/article/pii/S016816992400156X
+AN  - rayyan-559205002
+Y2  - 0004/01/01/
+N1  - <p>Times Cited in Web of Science Core Collection:&nbsp;&nbsp;1<br/>Total Times Cited:&nbsp;&nbsp;1<br/>Cited Reference Count:&nbsp;&nbsp;20</p> | RAYYAN-INCLUSION: {"Maosong"=>"Included"}
+KW  - Precision livestock farming
+KW  - Continuous (calf) monitoring
+KW  - Gateway development
+KW  - Validation sensor system
+KW  - Wearable systems development
+KW  - TEMPERATURE
+ER  - 
+
+TY  - JOUR
+TI  - Sensor-captured modifications in cow behaviour under subacute ruminal acidosis
+AU  - Silberberg, M.
+AU  - Mialon, M.M.
+AU  - Meunier, B.
+AU  - Veissier, I.
+T2  - Animal - Open Space
+AB  - High-energy diets increase the risk of subacute ruminal acidosis (SARA) in ruminants. Ruminants with SARA show behavioural modifications. However, behavioural changes due to high-energy diet are often confounded with the behavioural changes due to SARA per se. Here, we aimed to disentangle diet-induced effects from SARA-induced effects on cow behaviour. We fed Holstein cows with either a low-starch diet (10.5% starch) or a high-starch diet (31.5% starch) while monitoring their SARA status. Control cows (n = 14) received the low-starch diet for 60 days. Challenge cows (n = 14) received the same low-starch diet except for 10 days when they were gradually switched from the low- to the high-starch diet and the next 14 days when they were fed the high-starch diet only. The eCow rumen bolus and the CowView activity-collar sensors were used to track the rumen pH and cows’ activities. DM intake (DMI) and milk yield of each cow were assessed on a daily basis. SARA status was defined based on a relative decrease in ruminal pH and pH variability. The high-starch diet induced SARA more often than the low-starch diet (SARA on 81% of days when receiving high-starch diet vs 8% of days when receiving low-starch diet). Cows on the high-starch diet also showed decreased milk yield and spent less time eating but ate more quickly (Challenge vs Control cows during the challenge period: milk yield 20.0 vs 18.2 L/d; % time spent eating, 22.5 vs 27.6; eating rate, 77.1 vs 69.6 g DMI/min; P (diet × period) <0.001 in all cases). Cows experiencing SARA during transition or challenge periods also tended to show lower milk yield, less time spent eating, and an increase in eating rate regardless of diet (Challenge vs Control cows: milk yield, −0.5 and −0.3 L/d, P (SARA) = 0.03; % time spent eating, −1.4 and −0.84, P(SARA) = 0.02; eating rate, +4.9 and +3.2 g DMI/min, P(SARA) = 0.06; P (diet × SARA) > 0.50). Based on these findings, an increase in eating rate, especially when combined with a decrease in milk yield, should alert farmers to the risk of ruminal acidosis.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1016/j.anopes.2024.100063
+VL  - 3
+SP  - 100063
+J2  - Animal - Open Space
+SN  - 2772-6940
+UR  - https://www.sciencedirect.com/science/article/pii/S2772694024000037
+AN  - rayyan-559205141
+Y2  - 0012/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Dairy cow
+KW  - Activity indicators
+KW  - High-starch diet
+KW  - Precision farming
+KW  - Real-time localisation system
+ER  - 
+
+TY  - JOUR
+TI  - Estimating the Energy Expenditure of Grazing Farm Animals Based on Dynamic Body Acceleration
+AU  - Gonçalves, P
+AU  - Magalhaes, J
+AU  - Corujo, D
+T2  - ANIMALS
+AB  - Simple Summary In this paper, we developed and assessed a method for measuring the energy expenditure of ruminants using data collected from wearable inertial sensors that monitor accelerations. The measured values were compared with reference ones for animal expended energy, as reported in the literature, to evaluate the quality of the measurement. A results comparison allowed us to verify that the obtained values were within the reported reference ranges, which is very promising as it is a specific method with a low impact on animals' daily lives. Albeit not offering precision comparable to direct measurements, the measurement produced can be integrated with other complementary sources of information, (e.g., the evolution of the animal's weight, ingestion time) and can thus provide extremely useful information for the animals' feed management process.Abstract Indirect methods of measuring the energy expenditure of grazing animals using heartbeat variation or accelerometers are very convenient due to their low cost and low intrusiveness, allowing animals to maintain their usual routine. In the case of accelerometers, it is possible to use them to measure activity, as well as to classify animal behavior, allowing their usage in other scenarios. Despite the obvious convenience of use, it is important to evaluate the measurement error and understand the validity of the measurement through a simplistic method. In this paper, data from accelerometers were used to classify behavior and measure animal activity, and an algorithm was developed to calculate the energy expended by sheep. The results of the energy expenditure calculations were subsequently compared with the values reported in the literature, and it was verified that the values obtained were within the reference ranges. Although it cannot be used as a real metering of energy expended, the method is promising, as it can be integrated with other complementary sources of information, such as the evolution of the animal's weight and ingestion time, thus providing assistance in animals' dietary management.
+DA  - 2024///
+PY  - 2024
+DO  - 10.3390/ani14152140
+VL  - 14
+IS  - 15
+LA  - English
+SN  - 2076-2615
+AN  - rayyan-559205607
+Y2  - 0008/01/01/
+N1  - <p>Times Cited in Web of Science Core Collection:&nbsp;&nbsp;5<br/>Total Times Cited:&nbsp;&nbsp;5<br/>Cited Reference Count:&nbsp;&nbsp;28</p> | RAYYAN-INCLUSION: {"Maosong"=>"Included"}
+KW  - animal behavior
+KW  - accelerometry
+KW  - energy expenditure
+KW  - LOCOMOTION
+KW  - WALKING
+ER  - 
+
+TY  - JOUR
+TI  - Development of a novel Bluetooth Low Energy device for proximity and location monitoring in grazing sheep
+AU  - Walker, A.M.
+AU  - Jonsson, N.N.
+AU  - Waterhouse, A.
+AU  - McDougall, H.
+AU  - Kenyon, F.
+AU  - McLaren, A.
+AU  - Morgan-Davies, C.
+T2  - animal
+AB  - Monitoring animal location and proximity can provide useful information on behaviour and activity, which can act as a health and welfare indicator. However, tools such as global navigation satellite systems (GNSS) can be costly, power−hungry and often heavy, thus not viable for commercial uptake in small ruminant systems. Developments in Bluetooth Low Energy (BLE) could offer another option for animal monitoring, however, BLE signal strength can be variable, and further information is needed to understand the relationship between signal strength and distance in an outdoor environment and assess factors which might affect its interpretation in on-animal scenarios. A calibration of a purpose-built device containing a BLE reader, alongside commercial BLE beacons, was conducted in a field environment to explore how signal strength changed with distance and investigate whether this was affected by device height, and thus animal behaviour. From this calibration, distance prediction equations were developed whereby beacon distance from a reader could be estimated based on signal strength. BLE as a means of localisation was then trialled, firstly using a multilateration approach to locate 16 static beacons within an ∼5 400 m2 section of paddock using 6 BLE readers, followed by an on-sheep validation where two localisation approaches were trialled in the localisation of a weaned lamb within ∼1.4 ha of adjoining paddocks, surrounded by nine BLE readers. Validation was conducted using 1 days’ worth of data from a lamb fitted with both a BLE beacon and separate GNSS device. The calibration showed a decline in signal strength with increasing beacon distance from a reader, with a reduced range and earlier decline in the proportion of beacons reported at lower reader and beacon heights. The distance prediction equations indicated a mean underestimation of 12.13 m within the static study, and mean underestimation of 1.59 m within the on-sheep validation. In the static beacon localisation study, the multilateration method produced a mean localisation error of 22.02 m, whilst in the on-sheep validation, similar mean localisation errors were produced by both methods – 19.00 m using the midpoint and 23.77 m using the multilateration method. Our studies demonstrate the technical feasibility of localising sheep in an outdoor environment using BLE technology; however, potential commercial application of such a system would require improvements in BLE range and accuracy.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1016/j.animal.2024.101276
+VL  - 18
+IS  - 9
+SP  - 101276
+J2  - animal
+SN  - 1751-7311
+UR  - https://www.sciencedirect.com/science/article/pii/S1751731124002076
+AN  - rayyan-559205137
+Y2  - 0009/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Sensors
+KW  - Livestock
+KW  - Precision livestock farming
+KW  - Localisation
+KW  - Multilateration
+ER  - 
+
+TY  - JOUR
+TI  - Comparison of two tri-axial accelerometers for measuring locomotor activity in ewes and lambs
+AU  - Abecia, José Alfonso
+AU  - Aguerri, Carlos
+AU  - Canto, Francisco
+T2  - Smart Agricultural Technology
+AB  - Triaxial accelerometers provide a non-invasive means of recording all small-scale body motions of an animal. The summary metrics that can be extracted from a given accelerometer, and the validity and reliability of the estimates obtained, determine whether a particular accelerometer is suitable for research. The objectives of this study were to compare the performance of two models of triaxial accelerometers in quantifying the behavior of adult ewes and growing lambs, and to compare the circadian rhythms calculated from the locomotor activity data collected by these accelerometers. Ten non-pregnant ewes, and 10 weaned lambs, which were in their fattening period were used in experiment 1 and 2, respectively. Ewes and lambs were fitted with two models of commercially available accelerometers (ActiGraph wGT3X-BT and Axivity AX3), which were attached to a neck collar that remained in place for 10 d The profiles of the mean locomotor activity of ewes and lambs based on the two devices were similar. In addition, the cosinor curves of the two devices fit each other, and their acrophases did not differ significantly. Both accelerometers indicated that all ewes and lambs had a 24 h rhythm in locomotor activity. The coefficient of correlation and the coefficient of determination between the Actigraph and the Axivity data were 0.798 (P < 0.01) and 0.6369 (P < 0.01), and 0.940 (P < 0.01) and 0.8843 (P < 0.01), for ewes and lambs, respectively. Given the strong correlations between the Actigraph and the Axivity tri-axial accelerometers in quantifying the activities of ewes and lambs, and the similarity of the circadian rhythmicity curves calculated from data from the two devices, both brands of accelerometers are suitable for measuring the locomotor activity in these animals.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1016/j.atech.2024.100496
+VL  - 8
+SP  - 100496
+J2  - Smart Agricultural Technology
+SN  - 2772-3755
+UR  - https://www.sciencedirect.com/science/article/pii/S2772375524001011
+AN  - rayyan-559205113
+Y2  - 0008/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Sheep
+KW  - Accelerometer
+KW  - Circadian rhythm
+KW  - Locomotor activity
+ER  - 
+
+TY  - JOUR
+TI  - Behavioural patterns of lambs detected with tri-axial ear-mounted accelerometers while grazing endophyte-infected perennial ryegrass
+AU  - Fan, Bowen
+AU  - Bryant, Racheal
+AU  - Greer, Andrew
+T2  - Animal - Open Space
+AB  - The infection of the endophytic fungus (Epichloë festucae var. lolii) within perennial ryegrass (Lolium perenne) pastures can produce toxic alkaloids, including lolitrem B and ergovaline which can negatively impact animal welfare and behaviour through causing ryegrass staggers as well as poor growth and increased sensitivity to heat stress. Wearable 3-axis acceleration sensors can provide an alternative to automatically monitor individual grazing livestock who need essential treatment to minimise the impact of grazing pastures infected with an endophyte. The objective of this study was to categorise changes in ruminating, eating and other behavioural activities of grazing lambs exposed to endophyte-infected perennial ryegrass via commercial accelerometer sensors. Lambs were fitted with the ear-mounted accelerometer sensors (CowManager SensOors, Agis, Harmelen, the Netherlands) and allocated randomly within live-weight strata to graze either endophyte-free (Control) or wild−type endophyte-infected (Endophyte) perennial ryegrass pasture. Live weight change, behaviour and incidence of staggers were monitored over a 2-month grazing period. Moderately severe staggers (score 4/5) occurred in 40% of lambs in the Endophyte treatment with a mean staggers score of 2.33 ± 0.41 across the group. Compared with control lambs, endophyte-infected lambs compensated for reduced eating (−36.0 min/day) and inactive (−43.7 min/day) duration in favour of increased ruminating (+40.2 min/day) and active (+29.9 min/day) duration. The sensors also identified diurnal adaptations in behaviour of lambs which were affected by endophyte staggers, presenting significant effects of endophyte challenge by hour interaction on the diurnal eating duration (P < 0.001), diurnal ruminating duration (P < 0.001), diurnal inactive duration (P < 0.001), diurnal active duration (P < 0.001) and diurnal highly active duration (P < 0.001). In conclusion, these sensors were able to detect subtle changes in the behaviour of grazing sheep that can be used to detect subclinical symptoms of ryegrass staggers when consuming ryegrass staggers.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1016/j.anopes.2024.100071
+VL  - 3
+SP  - 100071
+J2  - Animal - Open Space
+SN  - 2772-6940
+UR  - https://www.sciencedirect.com/science/article/pii/S2772694024000116
+AN  - rayyan-559204991
+Y2  - 0012/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Acceleration sensors
+KW  - Behaviour
+KW  - Endophytic fungus
+KW  - Ryegrass staggers
+KW  - Toxic alkaloids
+ER  - 
+
+TY  - JOUR
+TI  - Subcutaneous temperature monitoring through ear tag for heat stress detection in dairy cows
+AU  - Chung, Hanwook
+AU  - Vu, Hien
+AU  - Kim, Younghyun
+AU  - Choi, Christopher Y.
+T2  - Biosystems Engineering
+AB  - Heat stress remains one of the greatest threats to the economic viability of the dairy industry. The threat becomes even greater during warm and humid conditions, especially for those larger farms seeking to expand their operations. This study sought to develop and test a reliable and timely method that allows dairy farmers to monitor the body temperatures of their animals, using a compact, lightweight ear tag device, including a wirelessly rechargeable battery. The device is also capable of wirelessly transmitting a cow's subcutaneous temperature in real-time by means of an injectable, passive RFID biosensor. The outcomes showed that subcutaneous ear-base temperature (EBT) can synchronously follow the core body temperature (CBT) while also producing a comparable temperature gradient. That is, on average, the difference between a CBT and an EBT is 0.68 ± 0.35 °C. Based on regression models, the CBT of a cow can be accurately predicted based on EBT, with an average error of around 0.20 °C and as low as 0.11 °C by using a multivariate polynomial regression model, which includes external environmental conditions as well as the cow's health information, including milk production. The outcomes indicate that there is a consistent, predictable time lag between increases in microenvironmental conditions and increases in a cow's body temperature. These findings should enable dairy barn designers to develop and employ automated control-loop systems that utilise physiological feedback to improve management practices aimed at detecting heat stress and mitigating its effects in a timely manner, while minimising energy use.
+DA  - 2023///
+PY  - 2023
+DO  - 10.1016/j.biosystemseng.2023.10.001
+VL  - 235
+SP  - 202
+EP  - 214
+J2  - Biosystems Engineering
+SN  - 1537-5110
+UR  - https://www.sciencedirect.com/science/article/pii/S153751102300209X
+AN  - rayyan-559205245
+Y2  - 0011/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - IoT
+KW  - Heat stress
+KW  - Real-time monitoring
+KW  - Dairy Cow
+KW  - Wireless data acquisition
+ER  - 
+
+TY  - JOUR
+TI  - Study on wearable pregnancy diagnosis device for rabbits based on photoelectric sensor
+AU  - Yuan, Hao
+AU  - Zhou, Zhizhi
+AU  - Wang, Hongying
+AU  - Liu, Cailing
+AU  - Zhu, Chengtian
+AU  - Wang, Yuewei
+T2  - Computers and Electronics in Agriculture
+AB  - Pregnancy diagnosis is essential for rabbits' reproductive management, which allows for re-insemination, and reduces the laboring interval in commercial operations. This study aimed to develop a wearable, non-invasive pregnancy identification device for rabbits. A sensing probe contained three LEDs (Light wavelength is 660 nm, 850 nm, and 930 nm respectively), two Si-based photodiodes, and a host with signal processing was developed. Room-temperature-vulcanized (RTV) silicone rubber, aluminum oxide powder, and dyes of different colors were used to make the abdominal tissue phantom of pregnant female rabbits (PRs) and non-pregnant female rabbits (NPRs) to test the sampling stability of the developed device. The results showed that the variation coefficient of the sampling data of the device was<0.013, and the stability met the use requirements. Sampling data from 419 female rabbits were used to build partial least squares discrimination analysis (PLS-DA) and support vector machine (SVM) models of different abdominal hair densities, including dense hair, sparse hair, hair removal, and hair mixing. The classification results of the two models showed that SVM had the best performance, the Ac, Re, Pre, and F-score are more than 80%, respectively. Then, the trained SVM model was then used as the identification model and downloaded to the developed device. Another 218 rabbits were used to verify the performance of the developed device, and the prediction performance was the best among the hair removal rabbits, with Ac, Re, Pre, and F-socre of 83.94%, 83.67%, 81.19%, and 82.41% respectively. The results show that the wearable device developed in this study has a good prediction performance for rabbits with abdominal hair removal, and provides a new idea for pregnancy diagnosis of rabbits.
+DA  - 2023///
+PY  - 2023
+DO  - 10.1016/j.compag.2023.107751
+VL  - 207
+SP  - 107751
+J2  - Computers and Electronics in Agriculture
+SN  - 0168-1699
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169923001394
+AN  - rayyan-559205041
+Y2  - 0004/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Wearable
+KW  - Classification
+KW  - Female rabbits
+KW  - Non-invasive
+KW  - Pregnancy diagnosis
+ER  - 
+
+TY  - JOUR
+TI  - Improved cattle behaviour monitoring by combining Ultra-Wideband location and accelerometer data
+AU  - Benaissa, S.
+AU  - Tuyttens, F.A.M.
+AU  - Plets, D.
+AU  - Martens, L.
+AU  - Vandaele, L.
+AU  - Joseph, W.
+AU  - Sonck, B.
+T2  - animal
+AB  - Cattle behaviour is fundamentally linked to the cows’ health, (re)production, and welfare. The aim of this study was to present an efficient method to incorporate Ultra-Wideband (UWB) indoor location and accelerometer data for improved cattle behaviour monitoring systems. In total, 30 dairy cows were fitted with UWB Pozyx wearable tracking tags (Pozyx, Ghent, Belgium) on the upper (dorsal) side of the cow’s neck. In addition to the location data, the Pozyx tag reports accelerometer data as well. The combination of both sensor data was performed in two steps. In the first step, the actual time spent in the different barn areas was calculated using location data. In the second step, accelerometer data were used to classify cow behaviour using the location information of step 1 (e.g., a cow located in the cubicles cannot be classified as feeding, or drinking). A total of 156 hours of video recordings were used for the validation. For each hour of data, the total time each cow spent in each area and performing which behaviours (feeding, drinking, ruminating, resting, and eating concentrates) were computed using the sensors and compared against annotated video recordings. Bland-Altman plots for the correlation and difference between the sensors and the video recording were then computed for the performance analysis. The overall performance of locating the animals into the correct functional areas was very high. The R2 was 0.99 (P < 0.001), and the root-mean-square error (RMSE) was 1.4 min (7.5% of the total time). The best performance was obtained for the feeding and lying areas (R2 = 0.99, P < 0.001). Performance was lower in the drinking area (R2 = 0.90, P < 0.01) and the concentrate feeder (R2 = 0.85, P < 0.05). For the combined location + accelerometer data, high overall performance (all behaviours) was obtained with an R2 of 0.99 (P < 0.001) and a RMSE of 1.6 min (12% of the total time). The combination of location and accelerometer data improved the RMSE of the feeding time and ruminating time compared to the accelerometer data alone (2.6–1.4 min). Moreover, the combination of location and accelerometer enabled accurate classification of additional behaviours that are difficult to detect using the accelerometer alone, such as eating concentrates and drinking (R2 = 0.85 and 0.90, respectively). This study demonstrates the potential of combining accelerometer and UWB location data for the design of a robust monitoring system for dairy cattle.
+DA  - 2023///
+PY  - 2023
+DO  - 10.1016/j.animal.2023.100730
+VL  - 17
+IS  - 4
+SP  - 100730
+J2  - animal
+SN  - 1751-7311
+UR  - https://www.sciencedirect.com/science/article/pii/S1751731123000265
+AN  - rayyan-559204995
+Y2  - 0004/01/01/
+N1  - <p>Times Cited in Web of Science Core Collection:&nbsp;&nbsp;32<br/>Total Times Cited:&nbsp;&nbsp;34<br/>Cited Reference Count:&nbsp;&nbsp;48</p> | RAYYAN-INCLUSION: {"Maosong"=>"Included"}
+KW  - Sensors
+KW  - Behaviour monitoring
+KW  - Dairy cows
+KW  - Location system
+KW  - Precision Livestock Farming
+KW  - DAIRY-COWS
+KW  - SYSTEM
+KW  - VALIDATION
+KW  - RUMINATION
+KW  - TIME
+KW  - DRINKING BEHAVIOR
+KW  - EFFICIENCY
+KW  - FEEDING-BEHAVIOR
+KW  - IDENTIFICATION
+ER  - 
+
+TY  - JOUR
+TI  - A wearable photoplethysmography sensor for non-invasive equine heart rate monitoring
+AU  - Miller, Morgan
+AU  - Byfield, Richard
+AU  - Crosby, Marci
+AU  - Schiltz, Paul
+AU  - Johnson, Philip J.
+AU  - Lin, Jian
+T2  - Smart Agricultural Technology
+AB  - In recent years, advancement in biomedical sensors has led to increasingly accurate and accessible biological vital sign collection in nontraditional and noncontrolled application domains. Despite much progress, the implementation within the veterinary medicine field is still limited, which, in part, is due to a lack of rapid, robust, and easy-to-use sensors. To tackle this challenge this work presents a compact and wearable photoplethysmography (PPG) sensor for monitoring equine heart rates (HRs) from the ventral midline near the base of the tail. The PPG waveforms were robustly collected from a group of 50 equine subjects with various age, sex, and breed and then used for HR calculation. The system achieved an accuracy of 94% for HR calculation from the subjects at rest compared to the ground truth HRs acquired from the same subjects by a stethoscope. Statistical analysis on the collected data was conducted to further investigate the robustness of the HR calculations in different age, sex, and breed demographics. This work demonstrates that the PPG-based sensor for HR monitoring shows great potential of being a complementary tool in veterinary medicine for promoting furtherance of the animal health.
+DA  - 2023///
+PY  - 2023
+DO  - 10.1016/j.atech.2023.100264
+VL  - 5
+SP  - 100264
+J2  - Smart Agricultural Technology
+SN  - 2772-3755
+UR  - https://www.sciencedirect.com/science/article/pii/S2772375523000941
+AN  - rayyan-559205035
+Y2  - 0010/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Heart rate
+KW  - Wearable
+KW  - Sensor
+KW  - Equine
+KW  - Photoplethysmography
+ER  - 
+
+TY  - JOUR
+TI  - Wearable Inertial Sensor-Based Limb Lameness Detection and Pose Estimation for Horses
+AU  - T. Yigit
+AU  - F. Han
+AU  - E. Rankins
+AU  - J. Yi
+AU  - K. H. McKeever
+AU  - K. Malinowski
+T2  - IEEE Transactions on Automation Science and Engineering
+AB  - Accurate objective, automated limb lameness detection and pose estimation play an important role for animal well-being and precision livestock farming. We present a wearable sensor-based limb lameness detection and pose estimation for horse walk and trot locomotion. The gait event and lameness detection are first built on a recurrent neural network (RNN) with long short-term memory (LSTM) cells. Its outcomes are used in the limb pose estimation. A learned low-dimensional motion manifold is parameterized by a phase variable with a Gaussian process dynamic model. We compare the RNN-LSTM-based lameness detection method with a feature-based multi-layer classifier (MLC) and a multi-class classifier (MCC) that are built on support vector machine/K-nearest-neighbors and deep convolutional neural network methods, respectively. Experimental results show that using only accelerometer measurements, the RNN-LSTM-based approach achieves 95% lameness detection accuracy and also outperforms the feature-based MLC or MCC in terms of several assessment criteria. The pose estimation scheme can predict the 24 limb joint angles in the sagittal plane with average errors less than 5 and 10 degs under normal and induced lameness conditions, respectively. The presented work demonstrate the successful use of machine learning techniques for high performance lameness detection and pose estimation in equine science. Note to Practitioners—Automation technologies are increasingly used for precision agriculture but few have focused on monitoring individual animals in open field for precision livestock farming. Limb lameness detection and pose estimation in open field is labor-intensive, unsafe for farmers, and inefficient. The presented machine learning-enabled, wearable inertial sensor-based design provides an effective and efficient approach for horse limb lameness detection and pose estimation applications. We present an RNN-LSTM for lameness detection and an integrated manifold learning model is used to predict the horse limb joint angles in walk and trot gaits under normal and induced lameness conditions. We also present a systematic analysis and experiments to demonstrate the impacts of the wearable sensor locations and signal information on lameness detection and pose estimation performance. Several other machine learning-based lameness detection methods are also presented and compared. The extensive multi-horse testing results are presented to demonstrate the superior accuracy and higher performance than other types of machine learning methods. One attractive feature of the proposed design lies in its high performance and fast computational capability for potential real-time applications in open field.
+DA  - 2022///
+PY  - 2022
+DO  - 10.1109/TASE.2022.3157793
+VL  - 19
+IS  - 3
+SP  - 1365
+EP  - 1379
+J2  - IEEE Transactions on Automation Science and Engineering
+SN  - 1558-3783
+AN  - rayyan-559204982
+Y2  - 0007/01/01/
+N1  - <p>Times Cited in Web of Science Core Collection:&nbsp;&nbsp;22<br/>Total Times Cited:&nbsp;&nbsp;25<br/>Cited Reference Count:&nbsp;&nbsp;51</p> | RAYYAN-INCLUSION: {"Maosong"=>"Included"}
+KW  - machine learning
+KW  - Horses
+KW  - Agriculture
+KW  - Legged locomotion
+KW  - Accelerometers
+KW  - Equine gait analysis
+KW  - Feature extraction
+KW  - inertial measurement units
+KW  - lameness detection
+KW  - pose estimation
+KW  - Pose estimation
+KW  - Real-time systems
+KW  - SYSTEM
+KW  - FORELIMB
+KW  - GAIT
+KW  - GRAPHICAL REPRESENTATIONS
+KW  - KINEMATICS
+KW  - MOVES
+KW  - REPEATABILITY
+KW  - SUBJECTIVE EVALUATION
+KW  - WALKING HORSES
+KW  - WIRELESS
+ER  - 
+
+TY  - JOUR
+TI  - MOOnitor: An IoT based multi-sensory intelligent device for cattle activity monitoring
+AU  - Dutta, Debeshi
+AU  - Natta, Dwipjyoti
+AU  - Mandal, Soumen
+AU  - Ghosh, Nilotpal
+T2  - Sensors and Actuators A: Physical
+AB  - Continuous activity monitoring of dairy cattle is essential to acquire a comprehensive knowledge on health and well-being of the animals. In this research, we have reported the development and deployment of "MOOnitor", a neck-mounted intelligent IoT device for cattle monitoring. The device facilitates classification of salient activities of cattle through appropriately positioned sensors. MOOnitor is an integration of a temperature sensor, a global positioning system (GPS) module, and a 3-axis accelerometer in a lightweight enclosure, which is attached to a halter that allows transmission of data to an IoT server using a microcontroller and a cellular GSM module. After acquiring the necessary sensory information, the most significant features were strategically extracted for enhanced data interpretation. Thereafter, optimally tuned eXtreme Gradient Boosting (XGBoost) and Random Forests classifiers were implemented to classify activities like ‘standing’, ‘lying’, ‘standing and ruminating’, ‘lying and ruminating’, ‘walking’, and ‘walking and grazing’. The performances of the two classifiers towards identification of different cattle activities were compared in terms of accuracy. Furthermore, the importance of using a temperature sensor and a GPS module in addition to an accelerometer in cattle activity recognition could be justified. An overall classification accuracy as high as ~97% was achieved using the XGBoost based classifier. In addition, accuracy, precision, sensitivity and specificity for standing (0.98, 0.97, 0.97, 0.98), lying (0.97, 0.90, 1, 0.96), standing and ruminating (0.99, 1, 0.97, 1), lying and ruminating (0.99, 1, 0.83, 1), walking (1, 1, 1, 1), and walking and grazing (0.99, 1, 0.75, 1) shows the suitability of the proposed method in effective cattle activity monitoring. Since cattle activity states are indicative of various factors such as estrous and several diseases like mastitis, foot-and-mouth disease, etc, the MOOnitor may be used for early detection of these conditions in addition to general health monitoring.
+DA  - 2022///
+PY  - 2022
+DO  - 10.1016/j.sna.2021.113271
+VL  - 333
+SP  - 113271
+J2  - Sensors and Actuators A: Physical
+SN  - 0924-4247
+UR  - https://www.sciencedirect.com/science/article/pii/S0924424721007342
+AN  - rayyan-559205268
+Y2  - 0001/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Artificial intelligence
+KW  - Precision livestock
+KW  - Cattle activity
+KW  - IoT in agriculture
+KW  - Multi-sensor fusion
+ER  - 
+
+TY  - JOUR
+TI  - Development of a New Wearable 3D Sensor Node and Innovative Open Classification System for Dairy Cows' Behavior
+AU  - Lovarelli, D
+AU  - Brandolese, C
+AU  - Leliveld, L
+AU  - Finzi, A
+AU  - Riva, E
+AU  - Grotto, M
+AU  - Provolo, G
+T2  - ANIMALS
+AB  - Simple Summary In order to keep dairy cows under satisfactory health and welfare conditions, it is very important to monitor the animals in their living environment. With the support of technology, and, in particular, with the installation of sensors on neck-collars, cow behavior can be adequately monitored, and different behavioral patterns can be classified. In this study, an open and customizable device has been developed to classify the behaviors of dairy cows. The device communicates with a mobile application via Bluetooth to acquire raw data from behavioral observations and via an ad hoc radio channel to send the data from the device to the gateway. After observing 32 cows on 3 farms for a total of 108 h, several machine learning algorithms were trained to classify their behaviors. The decision tree algorithm was found to be the best compromise between complexity and accuracy to classify standing, lying, eating, and ruminating. The open nature of the system enables the addition of other functions (e.g., localization) and the integration with other information sources, e.g., climatic sensors, to provide a more complete picture of cow health and welfare in the barn. Monitoring dairy cattle behavior can improve the detection of health and welfare issues for early interventions. Often commercial sensors do not provide researchers with sufficient raw and open data; therefore, the aim of this study was to develop an open and customizable system to classify cattle behaviors. A 3D accelerometer device and host-board (i.e., sensor node) were embedded in a case and fixed on a dairy cow collar. It was developed to work in two modes: (1) acquisition mode, where a mobile application supported the raw data collection during observations; and (2) operating mode, where data was processed and sent to a gateway and on the cloud. Accelerations were sampled at 25 Hz and behaviors were classified in 10-min windows. Several algorithms were trained with the 108 h of behavioral data acquired from 32 cows on 3 farms, and after evaluating their computational/memory complexity and accuracy, the Decision Tree algorithm was selected. This model detected standing, lying, eating, and ruminating with an average accuracy of 85.12%. The open nature of this system enables for the addition of other functions (e.g., real-time localization of cows) and the integration with other information sources, e.g., microenvironment and air quality sensors, thereby enhancing data processing potential.
+DA  - 2022///
+PY  - 2022
+DO  - 10.3390/ani12111447
+VL  - 12
+IS  - 11
+LA  - English
+SN  - 2076-2615
+AN  - rayyan-559205609
+Y2  - 0006/01/01/
+N1  - <p>Times Cited in Web of Science Core Collection:&nbsp;&nbsp;14<br/>Total Times Cited:&nbsp;&nbsp;15<br/>Cited Reference Count:&nbsp;&nbsp;47</p> | RAYYAN-INCLUSION: {"Maosong"=>"Included"}
+KW  - Internet of Things
+KW  - precision livestock farming
+KW  - ACCELEROMETER
+KW  - RECOGNITION
+KW  - CATTLE
+KW  - cattle behavior
+KW  - decision tree algorithm
+KW  - model training
+KW  - MONITOR
+ER  - 
+
+TY  - JOUR
+TI  - Prediction of Cow Calving in Extensive Livestock Using a New Neck-Mounted Sensorized Wearable Device: A Pilot Study.
+AU  - González-Sánchez, Carlos
+AU  - Sánchez-Brizuela, Guillermo
+AU  - Cisnal, Ana
+AU  - Fraile, Juan-Carlos
+AU  - Pérez-Turiel, Javier
+AU  - Fuente-López, Eusebio de la
+T2  - Sensors (Basel, Switzerland)
+AB  - In this study, new low-cost neck-mounted sensorized wearable device is presented to help farmers detect the onset of calving in extensive livestock farming by  continuously monitoring cow data. The device incorporates three sensors: an  inertial measurement unit (IMU), a global navigation satellite system (GNSS)  receiver, and a thermometer. The hypothesis of this study was that onset calving  is detectable through the analyses of the number of transitions between lying and  standing of the animal (lying bouts). A new algorithm was developed to detect  calving, analysing the frequency and duration of lying and standing postures. An  important novelty is that the proposed algorithm has been designed with the aim  of being executed in the embedded microcontroller housed in the cow's collar and,  therefore, it requires minimal computational resources while allowing for real  time data processing. In this preliminary study, six cows were monitored during  different stages of gestation (before, during, and after calving), both with the  sensorized wearable device and by human observers. It was carried out on an  extensive livestock farm in Salamanca (Spain), during the period from August 2020  to July 2021. The preliminary results obtained indicate that lying-standing  animal states and transitions may be useful to predict calving. Further research,  with data obtained in future calving of cows, is required to refine the  algorithm.
+CY  - Switzerland
+DA  - 2021///
+PY  - 2021
+DO  - 10.3390/s21238060
+VL  - 21
+IS  - 23
+J2  - Sensors (Basel)
+LA  - eng
+SN  - 1424-8220
+AN  - rayyan-559204973
+Y2  - 0012/01/01/
+N1  - <p>Times Cited in Web of Science Core Collection:&nbsp;&nbsp;8<br/>Total Times Cited:&nbsp;&nbsp;12<br/>Cited Reference Count:&nbsp;&nbsp;41</p> | RAYYAN-INCLUSION: {"Maosong"=>"Included"}
+KW  - Animals
+KW  - Livestock
+KW  - *Wearable Electronic Devices
+KW  - Humans
+KW  - Cattle
+KW  - Female
+KW  - Farms
+KW  - Pilot Projects
+KW  - parturition prediction
+KW  - Pregnancy
+KW  - *Parturition
+KW  - Behavior, Animal
+KW  - cow
+KW  - extensive livestock
+KW  - monitoring
+KW  - sensorized wearable device
+KW  - DAIRY-COWS
+KW  - TEMPERATURE
+KW  - ACCELEROMETER
+KW  - BEEF
+KW  - BEHAVIOR
+KW  - RECOGNITION
+KW  - RUMINATION
+KW  - TIME
+ER  - 
+
+TY  - JOUR
+TI  - Practical Experiences of a Smart Livestock Location Monitoring System Leveraging GNSS, LoRaWAN and Cloud Services.
+AU  - Ojo, Mike O.
+AU  - Viola, Irene
+AU  - Baratta, Mario
+AU  - Giordano, Stefano
+T2  - Sensors (Basel, Switzerland)
+AB  - Livestock farming is, in most cases in Europe, unsupervised, thus making it difficult to ensure adequate control of the position of the animals for the  improvement of animal welfare. In addition, the geographical areas involved in  livestock grazing usually have difficult access with harsh orography and lack of  communications infrastructure, thus the need to provide a low-power livestock  localization and monitoring system is of paramount importance, which is crucial  not for a sustainable agriculture, but also for the protection of native breeds  and meats thanks to their controlled supervision. In this context, this work  presents an Internet of things (IoT)-based system integrating low-power wide area  (LPWA) technology, cloud, and virtualization services to provide real-time  livestock location monitoring. Taking into account the constraints coming from  the environment in terms of energy supply and network connectivity, our proposed  system is based on a wearable device equipped with inertial sensors, Global  Positioning System (GPS) receiver, and LoRaWAN transceiver, which can provide a  satisfactory compromise between performance, cost, and energy consumption. At  first, this article provides the state-of-the-art localization techniques and  technologies applied to smart livestock. Then, we proceed to provide the hardware  and firmware co-design to achieve very low energy consumption, thus providing a  significant positive impact to the battery life. The proposed platform has been  evaluated in a pilot test in the northern part of Italy, evaluating different  configurations in terms of sampling period, experimental duration, and number of  devices. The results are analyzed and discussed for packet delivery ratio, energy  consumption, localization accuracy, battery discharge measurement, and delay.
+CY  - Switzerland
+DA  - 2021///
+PY  - 2021
+DO  - 10.3390/s22010273
+VL  - 22
+IS  - 1
+J2  - Sensors (Basel)
+LA  - eng
+SN  - 1424-8220
+AN  - rayyan-559204972
+Y2  - 0012/01/01/
+N1  - <p>Times Cited in Web of Science Core Collection:&nbsp;&nbsp;24<br/>Total Times Cited:&nbsp;&nbsp;28<br/>Cited Reference Count:&nbsp;&nbsp;75</p> | RAYYAN-INCLUSION: {"Maosong"=>"Included"}
+KW  - Animals
+KW  - cloud computing
+KW  - Monitoring, Physiologic
+KW  - Farms
+KW  - *Livestock
+KW  - *Internet of Things
+KW  - AWS architecture
+KW  - Cloud Computing
+KW  - livestock monitoring
+KW  - LoRaWAN
+KW  - smart agriculture
+KW  - BEHAVIOR
+KW  - TIME
+KW  - CATTLE
+KW  - TRACKING
+KW  - DESIGN
+KW  - INTERNET
+KW  - LOCALIZATION
+KW  - WIRELESS SENSOR NETWORKS
+ER  - 
+
+TY  - JOUR
+TI  - Comfort and health evaluation of live mutton sheep during the transportation based on wearable multi-sensor system
+AU  - Zhang, Mengjie
+AU  - Feng, Huanhuan
+AU  - Luo, Hailing
+AU  - Li, Zhigang
+AU  - Zhang, Xiaoshuan
+T2  - Computers and Electronics in Agriculture
+AB  - The uncertainty of transport environment threatens the comfort and health of live mutton sheep and even affects the quality of meat after slaughter. Using modern information technology to solve the deficiencies of live animal centralized transport is of great significance for the stable development of animal husbandry. In this paper, the wearable multi-sensor system was specially designed, and the system test experiment and transport monitoring experiment were carried out. According to the continuous and real-time data of environmental and physiological parameters obtained from the transport monitoring experiment, the optimization extraction, data collection analysis, correlation analysis and simulation analysis of the internal environment in the carriage were carried out, and the prediction model between environmental and physiological parameters based on generalized regression neural network (GRNN) and the prediction model of comfort and health evaluation based on back propagation neural network (BPNN) were established. The results show that: (1) The wearable multi-sensor system had high accuracy and stability of data collection, and the power consumption and communication performance can meet the monitoring requirements. (2) The observation values of internal environmental parameters increased gradually with the accumulation of transport time, and finally reached the state of dynamic balance. The heart rate fluctuated greatly and was higher than the normal range. The blood oxygen saturation showed a gradual decrease trend, but the overall was in the normal range. The body temperature gradually increased, and was affected by discomfort. (3) The correlation analysis showed that there was a significant correlation between environmental and physiological parameters. (4) The area with larger value of environmental parameters was close to the middle and front of the carriage, which was mainly caused by the high density and poor air circulation. (5) The prediction model between environmental and physiological parameters based on GRNN and the prediction model of comfort and health evaluation based on BPNN had high prediction accuracy, and the combination of the two models can map the impact of environmental factors on the change of vital signs to the relationship between comfort and health. Therefore, in the case of unknown vital signs information, only obtaining environmental information can also predict the health levels, which can provide decision-making basis for relevant practitioners.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1016/j.compag.2020.105632
+VL  - 176
+SP  - 105632
+J2  - Computers and Electronics in Agriculture
+SN  - 0168-1699
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169920314617
+AN  - rayyan-559205001
+Y2  - 0009/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Comfort
+KW  - Health
+KW  - Live mutton sheep
+KW  - Wearable multi-sensor system
+ER  - 
+
+TY  - JOUR
+TI  - Unsupervised automated monitoring of dairy cows’ behavior based on Inertial Measurement Unit attached to their back
+AU  - Achour, Brahim
+AU  - Belkadi, Malika
+AU  - Aoudjit, Rachida
+AU  - Laghrouche, Mourad
+T2  - Computers and Electronics in Agriculture
+AB  - Automated monitoring of dairy cow behavior based on non-invasive sensors offers a great potential to improve the monitoring processes of its welfare and health in the context of the smart farm. It can detect any changes before the appearance of the clinical signs, allowing the farmer to take necessary measures as soon as possible. The objective of this study is to develop an effective un-supervised classification model of data collected by Inertial Measurement Units (IMU) attached to the back of dairy cows housed in free-stall. These data were aggregated according to different sampling frequencies and segmentation windows. The different times of lying, standing, lying down, standing up, walking and stationary behaviors were observed and recorded in real time. The designed classification model is based on univariate and multivariate Finite Mixture Models (FMM) and decision trees. The valid transitions between standing and lying behaviors are guaranteed by constraints imposed by a deterministic finite state automaton. The obtained results revealed that 99% of behaviors are well classified. Standing, lying on each side and changing between these positions are classified with 100% accuracy, followed by stationary with 99% sensitivity, 96% specificity, 99% precision and 99% accuracy. The walking behavior is classified with 96% sensitivity, 99% specificity, 91% precision and 98% accuracy. These results show that the back is an interesting location for sensors to monitor the dairy cow behavior.
+DA  - 2019///
+PY  - 2019
+DO  - 10.1016/j.compag.2019.105068
+VL  - 167
+SP  - 105068
+J2  - Computers and Electronics in Agriculture
+SN  - 0168-1699
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169919304648
+AN  - rayyan-559205301
+Y2  - 0012/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Precision livestock farming
+KW  - Dairy cow
+KW  - Behavior classification
+KW  - Finite mixture model
+KW  - Inertial Measurement Unit
+KW  - Unsupervised monitoring
+ER  - 
+
+TY  - JOUR
+TI  - Technical note: Validation of a behavior-monitoring collar's precision and accuracy to measure rumination, feeding, and resting time of lactating dairy cows
+AU  - Grinter, L.N.
+AU  - Campler, M.R.
+AU  - Costa, J.H.C.
+T2  - Journal of Dairy Science
+AB  - ABSTRACT     Precision dairy technology is important because of the possibility to continuously and accurately measure behavior, biometrics, and productivity on commercial and research dairy farms by an automated method with minimal human intervention. The behavior-monitoring collar (BMC) used in this study is a commercially available precision dairy technology (MooMonitor+, Dairymaster, Co. Kerry, Ireland), designed to measure rumination, heat detection, feeding, and resting behavior of dairy cows. The study objective was to compare cow behavior measured by the BMC with visual observations. Twenty-four lactating, group-housed, Holstein dairy cows (mean ± standard deviation; days in milk: 196 ± 101; parity: 2.0 ± 1.1; milk yield: 40.0 ± 9.8 kg/d) were randomly selected for observation at the University of Kentucky's research dairy farm, Lexington). Behavior-monitoring collars were assigned to cows as per farm protocol. Each cow was observed for 240 min within 1 d (0700 to 0900 h, and 1900 to 2100 h). Recordings of rumination, feeding, and resting time (min) by the BMC were compared with visual observation using Pearson correlation, concordance correlation coefficient (CCC), linear regression, and Bland-Altman plots for validation of precision and accuracy. Data from the BMC were considered precise if the correlation coefficient and coefficient of determination were high (>0.70), and mean bias from the Bland-Altman plots included zero with the 95% interval of agreement. The BMC was considered accurate if the slope from the linear regressions did not differ significantly from 1, and the CCC (ρc) were at least moderate (>0.90). We found very high Pearson correlation coefficients (0.99, 0.93, and 0.94) and coefficients of determination (0.97, 0.85, and 0.88) for rumination, feeding, and resting, respectively. Bland-Altman plots were acceptable; the plots did not show any bias. The Bland-Altman mean differences ± standard deviation (BMC – observation) were −7.57 ± 6.31, 15.81 ± 11.84, and −13.03 ± 9.37 min, respectively. The Bland-Altman plot's 95% interval of agreement encompassed 100% of the observations of resting time, and all but one cow's observations for both rumination and feeding time. The slope of the linear regression, however, was different than 1 for all behaviors, and rumination was the only behavior with moderate CCC. In summary, this study validates the high precision of rumination, resting, and feeding behaviors measured by a BMC in lactating dairy cows.
+DA  - 2019///
+PY  - 2019
+DO  - 10.3168/jds.2018-15563
+VL  - 102
+IS  - 4
+SP  - 3487
+EP  - 3494
+J2  - Journal of Dairy Science
+SN  - 0022-0302
+UR  - https://www.sciencedirect.com/science/article/pii/S0022030219301511
+AN  - rayyan-559205347
+Y2  - 0004/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - precision dairy farming
+KW  - accelerometer
+KW  - MooMonitor+
+ER  - 
+
+TY  - JOUR
+TI  - Evaluation of the IceTag leg sensor and its derivative models to predict behaviour, using beef cattle on rangeland.
+AU  - Ungar, E. D.
+AU  - Nevo, Y.
+AU  - Baram, H.
+AU  - Arieli, A.
+T2  - Journal of neuroscience methods
+AB  - BACKGROUND: There is interest in using animal-mounted sensors to provide the detailed timeline of domesticated ruminant behaviour on rangelands. NEW METHOD:  Working with beef cattle, we evaluated the pedometer-like IceTag device  (IceRobotics, Edinburgh, Scotland) that records step events, leg movement and  body position (upright versus lying). We used partition analysis to compare  behaviour as inferred from the device data with true behaviour as coded at high  resolution from carefully synchronized video observations of 5-min duration.  RESULTS: Malfunctions reduced the target dataset by 7%. The correspondence  between IceTag and video-coded step counts was excellent (r(2)=0.97), and the  device's indications of upright or lying corresponded well (error rate=1.4%) to  the video-coded values. However, the proportion of steps that could be matched  individually was relatively low (65% at a tolerance of 0.5s), and the indicated  start of a lying bout was often triggered by leg movements of an upright animal.  Partition analysis of Grazing versus Not-Grazing yielded an overall error rate of  22%. In both three- and four-way classifications of behaviour (Graze, Rest,  Travel; Graze, Stand, Lie, Travel) error rates were low for non-graze behaviours,  but only 25% of Graze observations were correctly classified; the overall error  rate was 22%. COMPARISON WITH EXISTING METHOD(S): The IceTag device performed  well in mapping the diurnal patterns of animal position and step rate, but less  well in separating grazing from upright resting. CONCLUSIONS: Our results suggest  that pedometry is not the ideal method for classifying behaviour when grazing is  of paramount interest.
+CY  - Netherlands
+DA  - 2018///
+PY  - 2018
+DO  - 10.1016/j.jneumeth.2017.06.001
+VL  - 300
+SP  - 127
+EP  - 137
+J2  - J Neurosci Methods
+LA  - eng
+SN  - 1872-678X 0165-0270
+AN  - rayyan-559204975
+Y2  - 0004/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Animals
+KW  - Livestock
+KW  - Precision livestock farming
+KW  - Cattle
+KW  - Female
+KW  - Farms
+KW  - Pregnancy
+KW  - Animal activity
+KW  - Behavior, Animal/*physiology
+KW  - Herbivory/physiology
+KW  - Monitoring, Ambulatory/*instrumentation/methods/standards
+KW  - Partition analysis
+KW  - Pedometer
+KW  - Posture/*physiology
+KW  - Step count
+KW  - Video coding
+KW  - Wearable Electronic Devices/*standards
+ER  - 
+
+TY  - JOUR
+TI  - Design and test of a low-power acceleration sensor with Bluetooth Low Energy on ear tags for sow behaviour monitoring
+AU  - Liu, Long-Shen
+AU  - Ni, Ji-Qin
+AU  - Zhao, Ru-Qian
+AU  - Shen, Ming-Xia
+AU  - He, Can-Long
+AU  - Lu, Ming-Zhou
+T2  - Biosystems Engineering
+AB  - Short battery life limits the applicability of wearable sensors in animal behaviour monitoring. This research developed an ear-attached acceleration sensor of low power consumption for sow welfare studies. The sensor weighed only 10.0 g and was composed of a 3-axis accelerometer, a Bluetooth Low Energy module, a printed circuit board antenna, and a 3-V, 230-mAh CR2032 battery. It entered into a sleeping state when no activities of the monitored sow were detected, to conserve battery energy. In the sleeping state, the sensor still read data from the accelerometer at 1 Hz, but did not transfer data wirelessly to a receiver if a first-order difference that differentiated sow resting from its other activities was below a defined threshold. Laboratory and 8-sow field tests were conducted to assess the sensor performance in three operational modes (continuous, data grouping, and power saving). Results showed that there were three major behaviours of the sows (resting, moving, and eating) and the behaviour patterns differed from sow to sow. The ear-attached sensors could in principle be used to monitor and predict sow farrowing while not causing sow abnormal behaviours. In the continuous mode, data broadcasting consumed 97.6% energy and the battery life was only about 31 days. The average battery life could be extended to about 288 days in power saving mode when the first-order difference threshold was set at 0.1 g. Compared with reported similar acceleration sensors, this new sensor provided more than double the battery life while reducing the sensor mass by more than 70%.
+DA  - 2018///
+PY  - 2018
+DO  - 10.1016/j.biosystemseng.2018.10.011
+VL  - 176
+SP  - 162
+EP  - 171
+J2  - Biosystems Engineering
+SN  - 1537-5110
+UR  - https://www.sciencedirect.com/science/article/pii/S1537511018306172
+AN  - rayyan-559205119
+Y2  - 0012/01/01/
+N1  - <p>Times Cited in Web of Science Core Collection:&nbsp;&nbsp;27<br/>Total Times Cited:&nbsp;&nbsp;34<br/>Cited Reference Count:&nbsp;&nbsp;21</p> | RAYYAN-INCLUSION: {"Maosong"=>"Included"}
+KW  - Animal welfare
+KW  - Precision livestock farming
+KW  - Wearable sensor
+KW  - Animal behaviour
+KW  - Sensor battery life
+KW  - ACCELEROMETERS
+KW  - AMMONIA
+KW  - CLASSIFICATION
+KW  - EVENTS
+KW  - MORTALITY
+KW  - PARTICULATE MATTER
+KW  - PATTERNS
+ER  - 
+
+TY  - JOUR
+TI  - Sensor data on cow activity, rumination, and ear temperature improve prediction of the start of calving in dairy cows
+AU  - Rutten, C.J.
+AU  - Kamphuis, C.
+AU  - Hogeveen, H.
+AU  - Huijps, K.
+AU  - Nielen, M.
+AU  - Steeneveld, W.
+T2  - Computers and Electronics in Agriculture
+AB  - Management during calving is important for the health and survival of dairy cows and their calves. Although the expected calving date is known, this information is imprecise and farmers still have to check a cow regularly to identify when it starts calving. A sensor system that predicts the moment of calving could help farmers efficiently check cows for calving. Observation of a cow prior to calving is important because dystocia can occur, which requires timely intervention to mitigate adverse effects on both cow and calf. In this study, 400 cows on a Dutch dairy farm were equipped with sensors. The sensor was a single device in an ear tag, which synthesised cumulative activity, rumination activity, feeding activity, and temperature on an hourly basis. Data were collected during a one-year period. During this period, the starting moment of 417 calvings was recorded using camera images of the calving pen taken every 5min. In total, 114 calving moments could be linked with sensor data. The moment at which calving started was defined as the first camera snapshot with visible evidence that the cow was having contractions or had started labor. Two logit models were developed: a model with the expected calving date as independent variable and a model with additional independent variables based on sensor data. The areas under the curves of the Receiver Operating Characteristic were 0.885 and 0.929 for these models, respectively. The model with expected calving date only had a sensitivity of 9.1%, whereas the model with additional sensor data has a sensitivity of 36.4%, both with a fixed false positive rate of 1%. Results indicate that the inclusion of sensor data improves the prediction of the start of calving; therefore the sensor data has value for the prediction of the moment of calving. The model with the expected calving date and sensor data had a sensitivity of 21.2% at a one-hour time window and 42.4% at a three-hour time window, both with a false positive rate of 1%. This indicates that prediction of the specific hour in which calving started was not possible with a high accuracy. The inclusion of sensor data improves the accuracy of a prediction of the start of calving, compared to a prediction based only on the expected calving date. Farmers can use the alerts of the predictive model as an indication that cows should be supervised more closely in the next hours.
+DA  - 2017///
+PY  - 2017
+DO  - 10.1016/j.compag.2016.11.009
+VL  - 132
+SP  - 108
+EP  - 118
+J2  - Computers and Electronics in Agriculture
+SN  - 0168-1699
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169916310262
+AN  - rayyan-559205124
+Y2  - 0001/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Wearable sensors
+KW  - Dairy farming
+KW  - Calving management
+ER  - 
+
+TY  - JOUR
+TI  - Wearable wireless estrus detection sensor for cows
+AU  - Andersson, L. Mattias
+AU  - Okada, Hironao
+AU  - Miura, Ryotaro
+AU  - Zhang, Yi
+AU  - Yoshioka, Koji
+AU  - Aso, Hiroshi
+AU  - Itoh, Toshihiro
+T2  - Computers and Electronics in Agriculture
+AB  - Breeding is an important part of all livestock farming. Accurately detecting estrus, the period during which insemination should occur, is critical in order to maintain production and profit. However, conventional estrus detection depends on ocular inspection of the animals by skilled labour and this practice is expensive and relatively inefficient. Here, a wireless intravaginal probe for cattle capable of automatizing the process based on measurements of conductivity and temperature as well as movement sensing is presented and tested in-situ. These parameters can all be used independently to detect estrus. A good conformity between the data collected with this probe and established estrus patterns is demonstrated. Furthermore, the magnitude of natural daily variations and their impact on the individual parameters are discussed together with the impact of extraordinary events such as stress. Compared to existing alternatives, a multi-parameter approach like this is shown to be capable of much higher reliability, and also to be much more resistant to disturbances. The demonstrated system is very power efficient and capable of years of continuous isolated operation. Small to intermediate farm environments can be covered by the probe transmitters themselves with a single receiver unit, while bigger areas are handled with battery powered repeater units.
+DA  - 2016///
+PY  - 2016
+DO  - 10.1016/j.compag.2016.06.007
+VL  - 127
+SP  - 101
+EP  - 108
+J2  - Computers and Electronics in Agriculture
+SN  - 0168-1699
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169916303581
+AN  - rayyan-559205015
+Y2  - 0009/01/01/
+N1  - <p>Times Cited in Web of Science Core Collection:&nbsp;&nbsp;39<br/>Total Times Cited:&nbsp;&nbsp;55<br/>Cited Reference Count:&nbsp;&nbsp;10</p> | RAYYAN-INCLUSION: {"Maosong"=>"Included"}
+KW  - Agriculture
+KW  - Wireless sensor networks
+KW  - Wearable sensor
+KW  - Automation
+KW  - Estrus detection
+KW  - Sensors and actuators
+KW  - BODY-TEMPERATURE
+KW  - ESTROUS-CYCLE
+ER  - 
+
+TY  - JOUR
+TI  - Body temperature and heart rate variability, and their circadian rhythms in sheep as measured by biologgers
+AU  - Abecia, José A.
+AU  - Canto, Francisco
+AU  - Plaza, Javier
+AU  - Nieto, Jaime
+AU  - Palacios, Carlos
+T2  - Small Ruminant Research
+AB  - Heart rate (HR) variability (HRV) reflects the balance between the autonomic nervous system's sympathetic and parasympathetic branches, which regulate stress and relaxation. Wearable sensors record HR and body temperature (BT), to provide data that informed decisions can be made from on animal management and welfare. The purpose of this study was to investigate daily changes in BT and HRV, recorded by subcutaneous biologgers; specifically, to quantify the 24-hour circadian rhythm in BT (°C), HR (bpm), the Standard Deviation of the R-R intervals (SDNN), and the Root Mean Square of Successive Differences (RMSSD) (ms). Five ewes were implanted with a subcutaneous biologger, configured to collect data every 5 min for 7 d. Mean ( ± S.E.) BT (38.06 ± 0.01), HR (111.14 ± 1.68), SDNN (34.35 ± 2.90), and RMSSD (47.95 ± 4.21) were calculated. BT and HR were highest in the day (day: 38.15 ± 0.01 and 120.71 ± 0.43; night: 37.98 ± 0.01 and 102.47 ± 0.43; P < 0.001), and SDNN (day: 29.30 ± 0.87; night: 37.16 ± 0.67) and RMSSD (day: 39.01 ± 1.17; night: 53.53 ± 0.94) were highest at night (P < 0.001). BT and HR were positively correlated (P < 0.01), but both negatively correlated (P < 0.01) with SDNN and RMSSD. BT, HR, SDNN, and RMSSD presented a 24-h circadian rhythm, with acrophases (peak activity period) for BT at 1457 h and at 1223 h for HR, but those of SDNN and RMSSD were at 0350 h and 0327 h, respectively. In conclusion, biologgers detected the diurnal rhythmicity in BT and HRV in sheep, providing an option to use these physiological measures to assess an animal's health and welfare.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.smallrumres.2024.107429
+VL  - 243
+SP  - 107429
+J2  - Small Ruminant Research
+SN  - 0921-4488
+UR  - https://www.sciencedirect.com/science/article/pii/S0921448824002359
+AN  - rayyan-559205063
+Y2  - 0002/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Sheep
+KW  - Biologgers
+KW  - Circadian
+KW  - Heart rate variability
+ER  - 
+
+TY  - JOUR
+TI  - Behavioral and physiological differences associated with diarrheal and respiratory diseases in individually housed preweaning Holstein female calves detected using a multimodal tail-attached device
+AU  - Furukawa, Eri
+AU  - Ozawa, Tomomi
+AU  - Matsui, Yoshitaka
+AU  - Sasaki, Yosuke
+AU  - Murayama, Kyotaro
+AU  - Noguchi, Michiko
+AU  - Yoshioka, Koji
+AU  - Higaki, Shogo
+T2  - Smart Agricultural Technology
+AB  - This study aimed to clarify how behavioral and physiological parameters differ among preweaning female calves with different health statuses (healthy, diarrheal, and respiratory diseases) using a multimodal tail-attached device equipped with a 3-axis accelerometer and a thermistor. We also evaluated the applicability of this device for disease detection. The device was fitted to 329 Holstein calves (mean age: 20.7 ± 10.9 days) and recorded data for 24.2 ± 6.2 days at 3-min intervals. During this period, calves were assessed for health status twice weekly, and only data from assessment days were analyzed (1996 days' data: 1778 healthy, 148 diarrheal, 63 respiratory, and 7 with both diseases). Five daily metrics were calculated: mean activity intensity (meanActivity), total lying time (sumLying), number of body position changes (sumPosition), standard deviation of the tail-raising index (sdTail), and maximum tail skin temperature (maxST). A linear mixed-effects model showed that diarrheal disease was negatively associated with meanActivity and sumPosition, and positively with sumLying and sdTail. Respiratory disease was negatively associated with meanActivity and positively with sumLying and maxST. However, substantial overlap in metrics was observed between the two diseases. Therefore, they were merged into a single category, and a generalized disease detection model was developed using a random forest algorithm. Model performance, evaluated using a holdout approach, showed an acceptable level of discriminative ability between healthy and diseased cases (AUC = 0.71). These findings offer insights into health monitoring strategies and support the potential utility of the tail-attached device for automated disease detection in preweaning calves.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.atech.2025.101499
+VL  - 12
+SP  - 101499
+J2  - Smart Agricultural Technology
+SN  - 2772-3755
+UR  - https://www.sciencedirect.com/science/article/pii/S2772375525007300
+AN  - rayyan-559205003
+Y2  - 0012/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Machine learning
+KW  - Disease detection
+KW  - Accelerometer
+KW  - Dairy calf
+KW  - Thermistor
+KW  - Wearable devise
+ER  - 
+
+TY  - JOUR
+TI  - Behavior classification and rhythm analysis of pigs based on wearable sensors
+AU  - Huang, Yigui
+AU  - Lv, Yuding
+AU  - Xiao, Deqin
+AU  - Liu, Junbin
+AU  - Tan, Zujie
+AU  - Li, Guangzhen
+T2  - Smart Agricultural Technology
+AB  - Assessing the health status of pigs is critical for the swine industry, as the timely detection of abnormal behaviors can improve both production efficiency and animal welfare. To address the current challenges associated with wearable sensor data in pigs, such as indistinct behavioral features, irregular behavior durations, and the difficulty of manual classification, this paper proposes a behavior classification method based on ear tag data to detect three primary behaviors in pigs: feeding, movement, and sleeping. First, we collected 3-D accelerometer data from the ear tags of 40 pigs over a 60-day period. Then, using a sliding window approach, we transformed the accelerometer data for different behaviors into short-time Fourier transform (STFT) spectrograms, time-amplitude graphs, scatter plots, and density plots at various time scales (0.5 s, 1 s, 10 s, 30 s, 60 s, 120 s, and 180 s). Finally, we employed a spatial attention-enhanced ResNeSt-101 model to classify the images representing pig behaviors. The experimental results showed that time-amplitude graphs provided superior behavior classification performance compared to other image types, with the 60-second time-amplitude graphs achieving the highest accuracy at 91.23 %. Statistical analysis of pig behavior using ear tag data indicated that the primary feeding times were between 6:00–10:00 and 14:00–18:00, with a total daily feeding duration of approximately 1.5 h. This study introduces a novel technological approach for pig behavior detection and health assessment, with promising potential to enhance production efficiency and animal welfare.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.atech.2025.101457
+VL  - 12
+SP  - 101457
+J2  - Smart Agricultural Technology
+SN  - 2772-3755
+UR  - https://www.sciencedirect.com/science/article/pii/S2772375525006884
+AN  - rayyan-559205017
+Y2  - 0012/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Wearable sensors
+KW  - Behavior analysis
+KW  - Behavior classification
+KW  - Ear tags
+KW  - Pigs
+ER  - 
+
+TY  - JOUR
+TI  - Spatiotemporal understanding of behaviors of laying hens using wearable inertial sensors
+AU  - Shimmura, Tsuyoshi
+AU  - Sato, Itsufumi
+AU  - Takuno, Ryo
+AU  - Fujinami, Kaori
+T2  - Poultry Science
+AB  - ABSTRACT     Automatic detection of behaviors and locations has been increasingly needed in the management of noncage systems where hen behaviors are highly diverse and active. Here we show a technology to spatiotemporally understand behaviors using a wearable inertial sensor, containing a 3-axis accelerometer and 3-axis angular velocity sensor (i.e., gyroscope), and a marker. Using supervised machine learning, we first developed a tool that automatically classified and counted 11 behaviors, including comfort behaviors such as head scratching and tail-wagging with small movements as well as dust-bathing with dynamic movements. As expected, these behaviors were observed more frequently in floor pens than in conventional cages (all P < 0.01). We also spatially mapped the behaviors in floor pens and visualized the behavioral frequency in each resource by detecting the colored markers on the sensor. Furthermore, using the time-series information included in the sensor data, we analyzed the behavioral transition from one behavior to another. The behavioral transitions were more complex in floor pens, and the number was higher in body shaking, tail-wagging, resting, litter scratching, dust-bathing, preening, and moving in floor pens than in conventional cages (all P < 0.05). Our tools presented deeper insights into where and what hens behaved and also suggested that connectivity between behaviors, as well as observing the frequency of a behavior, can be an important indicator for welfare assessment in laying hens.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1016/j.psj.2024.104353
+VL  - 103
+IS  - 12
+SP  - 104353
+J2  - Poultry Science
+SN  - 0032-5791
+UR  - https://www.sciencedirect.com/science/article/pii/S0032579124009313
+AN  - rayyan-559205068
+Y2  - 0012/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - sensor
+KW  - laying hen
+KW  - behavior
+KW  - engineering technology
+KW  - welfare
+ER  - 
+
+TY  - JOUR
+TI  - Networked Wearable Sensors for Monitoring Health and Activities of an Equine Herd: An IoT Approach to Improve Horse Welfare
+AU  - M. Miller
+AU  - R. Byfield
+AU  - M. Crosby
+AU  - J. Lin
+T2  - IEEE Sensors Journal
+AB  - Over the past decade, wearable sensors for animals have significantly advanced. These devices, combined with sophisticated analysis tools, can reveal important health and behavioral correlations, such as the relationship between heart rates (HRs) and animals’ geographic movements. Despite their potential, widespread implementation in herds has been limited by challenges in sensor network communication. Building on our previous success with wearable vital sign sensors for horses, this study demonstrates an Internet of Things (IoT) framework that networks devices across an equine herd. Equipped with integrated photoplethysmography (PPG) sensors for 95% accurate HR monitoring, GPS for location tracking, and motion-detecting accelerometers and gyroscopes, our system offers holistic sensing capabilities. We found that horses near environmental stressors—such as service roads, barns, or feeding stations—not only show higher average HRs but also spend more time in these areas, constrained by their environment. This underscores our approach’s potential to improve animal welfare and advance precision agriculture by providing detailed insights into the effects of environmental factors on herd behavior.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1109/JSEN.2024.3436665
+VL  - 24
+IS  - 18
+SP  - 29211
+EP  - 29218
+J2  - IEEE Sensors Journal
+SN  - 1558-1748
+AN  - rayyan-559204976
+Y2  - 0009/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Animal welfare
+KW  - Animals
+KW  - equines
+KW  - Health and safety
+KW  - Heart rate
+KW  - Internet of Things
+KW  - Internet of Things (IoT)
+KW  - machine learning
+KW  - Machine learning
+KW  - network
+KW  - Sensors
+KW  - Testing
+KW  - wearable sensors
+KW  - Wearable sensors
+ER  - 
+
+TY  - JOUR
+TI  - Metritis and clinical mastitis events in lactating dairy cows were associated with altered patterns of rumination, physical activity, and lying behavior monitored by an ear-attached sensor
+AU  - Rial, C.
+AU  - Laplacette, A.
+AU  - Caixeta, L.
+AU  - Florentino, C.
+AU  - Peña-Mosca, F.
+AU  - Giordano, J.O.
+T2  - Journal of Dairy Science
+AB  - ABSTRACT     Understanding changes in parameters recorded by automated health monitoring systems based on ear-attached sensors on the days immediately before and after diagnosis of metritis and clinical mastitis can help develop dairy cow health monitoring strategies. The objective of this observational cohort study was to characterize rumination time, physical activity, and lying time monitored by an ear-attached sensor before, during, and after clinical diagnosis (CD) of metritis and clinical mastitis. Lactating Holsteins monitored daily for 21 d in milk for detection of health disorders were retrospectively included in the no clinical health disorder group (NCHD; n = 616) if no disorders were diagnosed. Cows were included in the metritis (MET; n = 69) or clinical mastitis (MAST; n = 36) group if diagnosed only with nonsevere metritis (watery, reddish, and fetid uterine discharge with or without pyrexia) or nonsevere clinical mastitis (visibly abnormal milk secretion with or without signs of udder inflammation, with no pyrexia and no systemic signs of disease), respectively. Cows diagnosed with severe metritis (signs of metritis plus systemic signs of disease) or severe clinical mastitis (signs of mastitis plus pyrexia and systemic signs of disease), and cows diagnosed with nonsevere metritis or clinical mastitis plus another disorder within −7 to +7 d of CD of metritis or clinical mastitis diagnosis, were included in the metritis plus (MET+; n = 25) or the clinical mastitis plus (MAST+; n = 15) group, respectively. Cows were fitted with an ear-attached accelerometer to measure rumination time, physical activity, and lying time. Mean daily values, mean value absolute change, and relative change for the mean daily value from 3 or 5 d before CD to the nadir for cows with metritis and clinical mastitis, respectively, were analyzed with linear mixed models with or without repeated measures. Rumination time and physical activity were lesser, and lying time was greater for the MET and MET+ groups than for the NCHD group for most days from −4 to +7 d of CD of metritis. Generally, daily rumination time, physical activity, and lying time differences were greater and more prolonged between the MET+ and NCHD than between the MET and NCHD groups. Similarly, cows in the MAST and MAST+ groups had lesser rumination time and physical activity than cows in the NCHD group for several days before diagnosis. Lying time was greater for the MAST+ than the NCHD group on d −1 and 0 relative to CD. Absolute values and relative changes from 3 d before CD to the day of the nadir for rumination time and physical activity, or peak for lying time, were different for cows in the MET and MET+ groups than for the NCHD group. Similar results were observed for the MAST and MAST+ groups compared with the NCHD group. For cows with metritis, either an increase in rumination time and physical activity or a decrease in lying time was observed from the day of CD to resolution of clinical signs, but no changes were observed for the NCHD. Cows with clinical mastitis and the NCHD group had different rumination times, physical activity, and lying times on the day of CD and resolution of clinical signs, but cows with clinical mastitis had no significant changes from the day of CD to resolution of clinical signs. We conclude that cows affected by metritis and clinical mastitis presented substantial alterations of the patterns of rumination time, physical activity, and lying time captured by an ear-attached sensor. Thus, automated health monitoring systems based on ear-attached sensors might be used as an aid for identifying cows with metritis and clinical mastitis. Moreover, behavioral parameter changes after CD might be good indicators of resolution of clinical signs of metritis but not mastitis.
+DA  - 2023///
+PY  - 2023
+DO  - 10.3168/jds.2022-23157
+VL  - 106
+IS  - 12
+SP  - 9345
+EP  - 9365
+J2  - Journal of Dairy Science
+SN  - 0022-0302
+UR  - https://www.sciencedirect.com/science/article/pii/S0022030223004733
+AN  - rayyan-559205131
+Y2  - 0012/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - sensor
+KW  - dairy cow
+KW  - automation
+KW  - health monitoring
+ER  - 
+
+TY  - JOUR
+TI  - Metabolic-digestive clinical disorders of lactating dairy cows were associated with alterations of rumination, physical activity, and lying behavior monitored by an ear-attached sensor
+AU  - Rial, C.
+AU  - Laplacette, A.
+AU  - Caixeta, L.
+AU  - Florentino, C.
+AU  - Peña-Mosca, F.
+AU  - Giordano, J.O.
+T2  - Journal of Dairy Science
+AB  - ABSTRACT     The objective of this observational cohort study was to characterize the pattern of rumination time (RT), physical activity (PA), and lying time (LT) monitored by an automated health monitoring system, based on an ear-attached sensor, immediately before, during, and after clinical diagnosis (CD) of metabolic-digestive disorders. Sensor data were collected from 820 lactating Holstein cows monitored daily from calving up to 21 DIM for detection of health disorders (HD). Cows were grouped retrospectively in the no-clinical health disorder group (NCHD; n = 616) if no HD were diagnosed, or the metabolic-digestive group (METB-DIG; n = 58) if diagnosed with clinical ketosis or indigestion only. Cows with another clinical health disorder within −7 to +7 d of CD of displaced abomasum, clinical ketosis, or indigestion were included in the metabolic-digestive plus one group (METB-DIG+1; n = 25). Daily RT, PA, and LT, and absolute and relative changes within −7 to +7 d of CD were analyzed with linear mixed models with or without repeated measures. Rumination time and PA were smaller, and LT was greater for the METB-DIG and METB-DIG+1 group than for cows in the NCHD group for most days from −7 to +7 d of CD of HD. In general, daily RT, PA, and LT differences were larger between the METB-DIG+1 and NCHD groups than between the METB-DIG and NCHD groups. In most cases, RT and PA decreased to a nadir and LT increased to a peak immediately before or after CD of HD, with a return to levels similar to the NCHD group within 7 d of CD. Absolute values and relative changes from 5 d before CD to the day of the nadir for RT and PA or peak for LT were different for cows in the METB-DIG and METB-DIG+1 group than for the NCHD group. For PA, the METB-DIG+1 group had greater changes than the METB-DIG group. For cows affected by metabolic-digestive disorders, RT, PA, and LT on the day of CD and resolution of clinical signs were different than for cows in the NCHD group, but an increase in RT and PA or a decrease in LT was observed from the day of CD to the day of resolution of clinical signs. We conclude that dairy cows diagnosed with metabolic-digestive disorders including displaced abomasum, clinical ketosis, and indigestion presented substantial alterations in the pattern of RT, PA, and LT captured by an ear-attached sensor. Thus, automated health monitoring systems based on ear-attached sensors might be used as an aid for identifying cows with metabolic-digestive disorders. Moreover, RT, PA, and LT changes after CD might be positive indicators of recovery from metabolic-digestive disorders.
+DA  - 2023///
+PY  - 2023
+DO  - 10.3168/jds.2022-23156
+VL  - 106
+IS  - 12
+SP  - 9323
+EP  - 9344
+J2  - Journal of Dairy Science
+SN  - 0022-0302
+UR  - https://www.sciencedirect.com/science/article/pii/S0022030223005532
+AN  - rayyan-559205142
+Y2  - 0012/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - sensor
+KW  - dairy cow
+KW  - automation
+KW  - health monitoring
+KW  - ear-attached sensor
+ER  - 
+
+TY  - JOUR
+TI  - Potential of an activity index combining acceleration and location for automated estrus detection in dairy cows
+AU  - Wang, Jun
+AU  - Zhang, Yadan
+AU  - Bell, Matt
+AU  - Liu, Gang
+T2  - Information Processing in Agriculture
+AB  - The objective of this study was to assess the effectiveness and practicability of an activity index combining acceleration and location data for automated estrus detection in dairy cows. By using a wearable neck tag, measurements of acceleration and location were gathered from 22 multiparous cows monitored incessantly for 6 days to derive activity records of each cow. The maximum-minimum distance clustering (MMDC) method was used to divide hourly activity data into low, medium, high, and intensity level groups. The weighted sum of the proportions of the low, medium, high, and intensity activities in an hour constituted the activity level. The activity index was defined as the ratio of the variation in hourly activity level compared to the same time period during the previous three days. Furthermore, whether the cow was in estrus was judged above a set threshold. The study showed that the power consumption and communication effects of the neck tags were acceptable for indoor-housing conditions. For the two consecutive time periods, the activity-index-based detection algorithm achieved 90.91% for accuracy, 100% for precision, 100% for specificity, 83.33% for recall, 90.91% for F1 score, and 0.82 for Kappa coefficient. On the basis of these results, it can be concluded that the combination of acceleration and location in the activity index can promote estrus detection in dairy cows.
+DA  - 2022///
+PY  - 2022
+DO  - 10.1016/j.inpa.2021.04.003
+VL  - 9
+IS  - 2
+SP  - 288
+EP  - 299
+J2  - Information Processing in Agriculture
+SN  - 2214-3173
+UR  - https://www.sciencedirect.com/science/article/pii/S2214317321000275
+AN  - rayyan-559205269
+Y2  - 0006/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Dairy cow
+KW  - Estrus detection
+KW  - Activity index
+KW  - Data acquisition system
+KW  - Neck tag
+ER  - 
+
+TY  - JOUR
+TI  - Evaluation of proper sensor position for classification of sheep behaviour through accelerometers
+AU  - Decandia, M.
+AU  - Rassu, S.P.G.
+AU  - Psiroukis, V.
+AU  - Hadjigeorgiou, I.
+AU  - Fountas, S.
+AU  - Molle, G.
+AU  - Acciaro, M.
+AU  - Cabiddu, A.
+AU  - Mameli, M.
+AU  - Dimauro, C.
+AU  - Giovanetti, V.
+T2  - Small Ruminant Research
+AB  - Automated classiﬁcation and identiﬁcation of feeding behaviour through sensors, has the potential to allow improvements in animal health and welfare. Sensor position, as well as epoch setting of segmented signal data, affects classiﬁcation accuracy in behavioural activity discrimination. The aim of this study was to evaluate the effects of position, at different time epoch setting, of a tri-axial accelerometer-based device (BEHARUM) on the classiﬁcation of behaviour types such as grazing, ruminating and other activities in sheep grazing a chicory-based sward. Sheep were video recorded, during accelerometer deployment, by fixed camera. Mean, variance and inverse coefficient of variation (i.e., mean/ standard deviation), of the raw acceleration data for each axis, as well as the resultant variance and inverse coefficient of variation values of the three axes, were calculated for the following positions: mouth, nape, collar and epoch settings: 5 s, 10 s, 30 s, 60 s, 120 s, 180 s, 300 s. Video recordings were coded manually assigning to each position and epoch the prevailing behaviour. Multivariate discriminant analysis (DA) was used to distinguish between the three behaviour types. To evaluate the performance of DA in discriminating the three activities, overall accuracy and Coehn’s k coefficient were calculated, based on the error distribution in assignment. Mouth position recorded the highest accuracies and Coehn’s k coefficient in 300 s time epoch setting (88 % and 0.8 respectively), as well as collar position (90 % and 0.8 respectively), while nape position showed the best performance in 180 and 300 s (80 % and 0.6 respectively). Overall, the best performance of DA was obtained using collar position in particular at 300 s time epoch.
+DA  - 2021///
+PY  - 2021
+DO  - 10.1016/j.smallrumres.2021.106445
+VL  - 201
+SP  - 106445
+J2  - Small Ruminant Research
+SN  - 0921-4488
+UR  - https://www.sciencedirect.com/science/article/pii/S092144882100122X
+AN  - rayyan-559205152
+Y2  - 0008/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Accelerometer
+KW  - Dairy sheep
+KW  - Discriminant analysis
+KW  - Feeding behaviour
+ER  - 
+
+TY  - JOUR
+TI  - Prediction of bite number and herbage intake by an accelerometer-based system in dairy sheep exposed to different forages during short-term grazing tests
+AU  - Giovanetti, V.
+AU  - Cossu, R.
+AU  - Molle, G.
+AU  - Acciaro, M.
+AU  - Mameli, M.
+AU  - Cabiddu, A.
+AU  - Serra, M.G.
+AU  - Manca, C.
+AU  - Rassu, S.P.G.
+AU  - Decandia, M.
+AU  - Dimauro, C.
+T2  - Computers and Electronics in Agriculture
+AB  - The accurate estimation of herbage intake is a key to adequately feed grazing ruminants. Ten dairy Sarda sheep fitted with a halter equipped with an accelerometer (BEHARUM device) were allowed to graze micro-swards of Italian ryegrass (Lolium multiflorum L.), alfalfa (Medicago sativa L.), oat (Avena sativa L.), chicory (Cichorium intibus L.) and a mixture (Italian ryegrass and alfalfa) for six minutes. Accelerometer data and video recordings of behaviour were collected simultaneously. The raw acceleration data were processed to calculate 15 variables: sum, mean, variance and inverse coefficient of variation (ICV, mean/standard deviation) for the X, Y and Z axes and the resultant. A database was created that included the acceleration variables and herbage intake (FMI, DMI, g), intake rate (FMIR, DMIR, g/minute), bite mass (FMBM, DMBM, g) either on fresh (FM) or dry matter basis (DM) and the logarithm of number of bites (LB) and bite rate (LBR) measured during the tests. Partial least square regression analysis (PLSR) was used to verify if acceleration variables could be used as predictors of behavioural traits. The precision and accuracy of PLSR were evaluated implementing the Model Evaluation System, in which predicted values were regressed against observed ones, based on r2 and Dent & Blackie test. The PLSR showed an overall good accuracy (Dent & Blackie test P = ns) and was proven precise for the estimation of LB (r2 = 0.87), LBR (r2 = 0.86), DMI and DMIR (r2 = 0.71). To conclude, BEHARUM can accurately estimate with high to moderate precision number of bites and herbage intake of sheep short term grazing Mediterranean forages.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1016/j.compag.2020.105582
+VL  - 175
+SP  - 105582
+J2  - Computers and Electronics in Agriculture
+SN  - 0168-1699
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169920302398
+AN  - rayyan-559205227
+Y2  - 0008/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Accelerometer
+KW  - Dairy sheep
+KW  - Feeding behaviour
+ER  - 
+
+TY  - JOUR
+TI  - A non-implantable flexible stretchable sensor for detecting respiratory rhythms in animals
+AU  - Kong, Chuiyu
+AU  - Ma, Ruiqin
+AU  - Guo, Xiangyun
+AU  - Zhang, Luwei
+AU  - Song, Cheng
+AU  - Zhang, Mengjie
+AU  - Hu, Jinyou
+T2  - Computers and Electronics in Agriculture
+AB  - The health status of livestock will directly or indirectly affect meat quality and farmers’ income. Therefore, it is necessary to monitor the physiological indicators of livestock to timely reflect their health status. The respiratory rhythm of animals can provide early warning for the occurrence of diseases, but there is currently limited research on the characteristics of the rhythm. Therefore, this paper conducted the following research. PVDF flexible piezoelectric sensors were prepared by spin-coating, laser-induced graphene, and transfer printing processes, in which three common flexible substrate materials were compared, three key parameters of laser scanning were explored, while practical application tests were carried out on model animals, and the collected respiratory rhythm signals were analyzed in the time and frequency domains. The results showed that (1) posilicone of 25 durometer was identified as the flexible substrate material, and the LIG process with a scanning speed of 120 mm/min, a scanning power of 12 %, and a scanning interval of 0.02 mm as the optimal parameters was determined; (2) the sensor exhibited a response speed of 50 ms, an output voltage of 3.7 v, and still had a stable output; (3) in the monitoring of the respiratory rhythm of rabbits, the monitoring accuracy reached 96.7 %, while the respiratory signal collected by the sensor was randomly intercepted for 10 s, and its respiratory rhythm prediction accuracy reached 95.85 %. At the same time, the abnormal respiratory rhythm change of the animal was found 10 min in advance, giving the farmer more time to deal with the problem. (4) The monitoring of the respiration of farm animals such as Hu sheep is being realised. At the same time, the time domain as well as frequency domain waveforms of the Hu sheep were analysed and compared with the time domain frequency domain plots of the rabbit, which showed that the sensor could achieve good results for both higher frequency breathing and low-frequency breathing. It provides potential technical support for future health monitoring and early prediction of diseases in large farm animals.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1016/j.compag.2024.109183
+VL  - 224
+SP  - 109183
+J2  - Computers and Electronics in Agriculture
+SN  - 0168-1699
+UR  - https://www.sciencedirect.com/science/article/pii/S016816992400574X
+AN  - rayyan-559205074
+Y2  - 0009/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Health monitoring
+KW  - Flexible sensing
+KW  - Respiratory rhythm
+KW  - Time-frequency analysis
+ER  - 
+
+TY  - JOUR
+TI  - The effect of different time epoch settings on the classification of sheep behaviour using tri-axial accelerometry
+AU  - Decandia, M.
+AU  - Giovanetti, V.
+AU  - Molle, G.
+AU  - Acciaro, M.
+AU  - Mameli, M.
+AU  - Cabiddu, A.
+AU  - Cossu, R.
+AU  - Serra, M.G.
+AU  - Manca, C.
+AU  - Rassu, S.P.G.
+AU  - Dimauro, C.
+T2  - Computers and Electronics in Agriculture
+AB  - Monitoring behaviour of grazing animals is important for the management of grazing systems. A study was run to discriminate between the main behaviours (grazing, ruminating and other activities) of sheep at pasture wearing a halter equipped with an accelerometer (BEHARUM device), and to identify the epoch setting (5, 10, 30, 60, 120, 180 and 300 s) with the best performance. The BEHARUM device includes a three-axial accelerometer sensor and a force sensor positioned under the lower jaw of the animal. The halter was fitted to eight Sarda dairy sheep that rotationally grazed either a spatial association (mixture) or a time association of berseem clover (Trifolium alexandrinum L.) and Italian ryegrass (Lolium multiflorum Lam.) for 6 h day−1. The behaviour of the animals was also video-recorded. The raw acceleration and force data were processed for each epoch setting to create 15 variables: the mean, variance and inverse coefficient of variation (ICV; mean/standard deviation) per minute for the X-, Y-, Z-axis and force, and the resultant. Multivariate statistical techniques were used to discriminate between the three behavioural activities: canonical discriminant analysis (CDA), and discriminant analysis (DA). To validate the derived discriminant functions, a bootstrap procedure was run. To evaluate the performance of DA in discriminating between the three activities, the sensitivity, specificity, precision, accuracy and Coehn’s k coefficient were calculated, based on the error distribution in assignment. Results show that a discriminant analysis can accurately classify important behaviours such as grazing, ruminating and other activities in sheep at pasture. The prediction model has demonstrated a better performance in classifying grazing behaviour than ruminating and other activities for all epochs. The 30 s epoch length yielded the most accurate classification in terms of accuracy and Coehn’s k coefficient. Nevertheless, 60 and 120 s may increase the potential recording time without causing serious lack of accuracy.
+DA  - 2018///
+PY  - 2018
+DO  - 10.1016/j.compag.2018.09.002
+VL  - 154
+SP  - 112
+EP  - 119
+J2  - Computers and Electronics in Agriculture
+SN  - 0168-1699
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169918302916
+AN  - rayyan-559205196
+Y2  - 0011/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Accelerometer
+KW  - Discriminant analysis
+KW  - Feeding behaviour
+KW  - Wireless communication technology
+ER  - 
+
+TY  - JOUR
+TI  - Prediction of calving time in Holstein dairy cows by monitoring the ventral tail base surface temperature
+AU  - Koyama, K.
+AU  - Koyama, T.
+AU  - Sugimoto, M.
+AU  - Kusakari, N.
+AU  - Miura, R.
+AU  - Yoshioka, K.
+AU  - Hirako, M.
+T2  - The Veterinary Journal
+AB  - Dystocia adversely affects the health of calves and their dams. The aim of this study was to determine whether the ventral tail base surface temperature (ST) could be used to predict calving time in dairy cows. Pregnant Holstein cows were enrolled during the warm season (daily average air temperature 10–20°C; n=13) and cool season (daily average air temperature<10°C; n=22) in Hokkaido, Japan, and a wearable wireless ST sensor was attached to the surface of the ventral tail base of each cow 9–12days before the predicted calving date. The ventral tail base ST was measured every 2min until 24h after calving. Hourly maximum ventral tail base ST values were used in the analysis and changes in ventral tail base ST were expressed as residual temperatures (RTs) to exclude any circadian effects using the formula: RT=actual ST−mean ST for the same hour on the previous 3 days. In both seasons, there was a continual decrease in ventral tail base RT from approximately 24h before calving compared with the control ventral tail base RT from 120 to 97h before calving. The areas under the receiver operating characteristic curves (ROC-AUCs) for ventral tail base RT as a predictor of calving were 0.88–0.95. ROC-AUCs as a predictor of calving within 24h were higher in the warm season than in the cool season. These findings demonstrate that calving time in dairy cows can be predicted by monitoring ventral tail base ST with a wearable wireless sensor, but seasonal variability affects the accuracy of prediction of calving time.
+DA  - 2018///
+PY  - 2018
+DO  - 10.1016/j.tvjl.2018.08.006
+VL  - 240
+SP  - 1
+EP  - 5
+J2  - The Veterinary Journal
+SN  - 1090-0233
+UR  - https://www.sciencedirect.com/science/article/pii/S1090023318304957
+AN  - rayyan-559205158
+Y2  - 0010/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Dairy cow
+KW  - Calving
+KW  - Ventral tail base surface temperature
+KW  - Wearable wireless sensor
+ER  - 
+
+TY  - JOUR
+TI  - Using a real-time location system to detect behavioral changes in ewes with subclinical mastitis and their lambs
+AU  - Peckler, Gretchen L.
+AU  - Adcock, Sarah J.J.
+T2  - Applied Animal Behaviour Science
+AB  - Subclinical mastitis, the asymptomatic inflammation of the udder, is an important economic and animal welfare concern in meat-producing flocks, causing reduced milk yield and poorer lamb growth and survival. Cases often remain undetected until more severe stages, highlighting the need to investigate early detection methods, such as automated behavioral monitoring. Our objective was to use a real-time location system to determine whether subclinical mastitis affected ewe and lamb movement patterns. From 2–6 weeks postpartum, we collected duplicate milk samples weekly from each udder half of 24 ewes (15 Polypay, 3 Hampshire, and 6 Targhee) for bacterial speciation. Ewes were considered infected in a given week if milk samples from at least one udder half contained ≥ 100 CFU/mL at both the start of that week and the following week's sampling. Each ewe and her lamb(s) wore neck-mounted sensors that recorded x, y coordinates every 0.1 s via ultrawideband technology while housed in a group pen. We used linear mixed models to assess the effects of the ewe’s weekly infection status (healthy vs. infected) and weeks since lambing (2−6) on four behavioral outcomes: ewe-lamb distance, ewe-feed bunk distance, ewe distance traveled, and lamb distance traveled. The number of lambs reared (single vs. multiple) was included as a covariate and dam ID was specified as a random effect. Lambs traveled more during weeks when their dam was infected, possibly reflecting increased hunger due to insufficient maternal milk supply. No significant effects of infection status were observed for the other behavioral outcomes. Ewe–lamb and ewe–feed bunk distances were shortest, and lamb movement was greatest, in week 2 compared to later weeks – patterns that likely reflect the lamb’s greater nutritional dependence on the dam and increased play behavior early in life. Our findings provide preliminary evidence that real-time tracking of lamb behavior may help identify early cases of subclinical mastitis in the dam. They also highlight the potential welfare impacts of subclinical mastitis on lambs, underscoring the importance of early detection and management.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.applanim.2025.106808
+VL  - 292
+SP  - 106808
+J2  - Applied Animal Behaviour Science
+SN  - 0168-1591
+UR  - https://www.sciencedirect.com/science/article/pii/S0168159125003065
+AN  - rayyan-559205133
+Y2  - 0011/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Animal welfare
+KW  - Precision livestock farming
+KW  - Sheep
+KW  - Automated behavioral detection
+KW  - Intramammary infection
+KW  - RTLS
+ER  - 
+
+TY  - JOUR
+TI  - Behavioral responses of holstein friesian and anatolian black cows to climate variability
+AU  - Sakar, Çağrı Melikşah
+AU  - Ünal, İlker
+AU  - Ünay, Engin
+AU  - Ergi̇den, Yasin
+AU  - Özdemi̇r, Pınar
+AU  - Erdal, Nurgül
+AU  - Özkan, Solmaz
+AU  - Zülkadi̇r, Uğur
+T2  - Behavioural Processes
+AB  - This study examined the behavioral and physiological responses of dairy cows and native cattle to varying climatic conditions using the Comprehensive Climate Index (CCI). The experimental animals comprised 16 cows in total, with equal representation from two breeds: Holstein Friesian (HF; n = 8) and Anatolian Black (AB; n = 8). Over the course of one year (September 2019 to September 2020), wearable sensor technologies were used to continuously monitor hourly and daily patterns of physical activity (high-active, basic-active, not-active), eating, rumination, and ear temperature. Results indicated that HF cows generally displayed greater levels of active behavior, eating, and rumination, whereas AB cows spent more time in basic-active and not-active states. Both breeds exhibited increased activity and reduced rumination and resting time as thermal stress intensified across CCI categories. Feeding behavior was most prominent under moderate, thermoneutral conditions. Diurnal rhythms showed increased activity and ear temperatures during daylight hours, with rumination and resting behaviors concentrated at night, reflecting behavioral strategies for thermoregulation. Notably, AB cows maintained more stable behavioral patterns across climatic conditions, suggesting a higher level of heat adaptability. These findings highlight the importance of incorporating breed-specific climate resilience into dairy management strategies to safeguard welfare and productivity.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.beproc.2025.105280
+VL  - 232
+SP  - 105280
+J2  - Behavioural Processes
+SN  - 0376-6357
+UR  - https://www.sciencedirect.com/science/article/pii/S0376635725001421
+AN  - rayyan-559205140
+Y2  - 0011/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Sensor
+KW  - Behavior
+KW  - Anatolian Black
+KW  - Climate index
+KW  - Holstein Friesian
+ER  - 
+
+TY  - JOUR
+TI  - Design and implementation of an IoT-based monitoring system for early detection of lumpy skin disease in cattle
+AU  - Shahab, Hammad
+AU  - Iqbal, Muhammad
+AU  - Sohaib, Ahmed
+AU  - Rehman, Atiq ur
+AU  - Bermak, Amine
+AU  - Munir, Kashif
+T2  - Smart Agricultural Technology
+AB  - Livestock farming serves a crucial role in global food security and sustainability, yet infections like Lumpy Skin Disease (LSD) present huge difficulties. LSD reduces the marketability and productivity of cattle, but it is not fatal. Current preventive measures that rely on routine veterinary testing can be time-consuming and miss early signs of infection, requiring a more effective management strategy first works This article presents an IoT-enabled intelligent system to prevent LSD in animals. The system uses a smart wearable sensor device to collect real-time health information including body temperature, heart rate and 3-axis motion data. Advanced analysis of data is considered to identify early diagnosis of potential LSD infection results based on deviations from normal parameters, this data prevents further infection within livestock by supporting immediate isolation. On a cloud-based online platform, and integrated into the mobile application provides a comprehensive experience and timely alerts to provide potential health issues. Furthermore, the IoT features of the system enable farmers and veterinarians to quickly guide and optimize disease control strategies, improving biosecurity protocols and overall livestock health management. This creative approach represents a significant improvement over traditional methods, providing a cost-effective, accurate and real-time solution for animal health monitoring and management.
+DA  - 2024///
+PY  - 2024
+DO  - 10.1016/j.atech.2024.100609
+VL  - 9
+SP  - 100609
+J2  - Smart Agricultural Technology
+SN  - 2772-3755
+UR  - https://www.sciencedirect.com/science/article/pii/S2772375524002144
+AN  - rayyan-559205048
+Y2  - 0012/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Wearable sensors
+KW  - Disease detection
+KW  - Real-time monitoring
+KW  - Biosecurity
+KW  - Iot, livestock health
+KW  - Mobile Application
+ER  - 
+
+TY  - JOUR
+TI  - Identifying-and-counting based monitoring scheme for pigs by integrating BLE tags and WBLCX antennas
+AU  - Lee, Geunho
+AU  - Ogata, Koki
+AU  - Kawasue, Kikuhito
+AU  - Sakamoto, Shinsuke
+AU  - Ieiri, Seiji
+T2  - Computers and Electronics in Agriculture
+AB  - Recently, the Internet of Things (IoT) technologies have been applied to pig monitoring. Among these, electronic tags help identify individual growing-finishing pigs. Nevertheless, the tags are insufficient to achieve accurate and reliable monitoring in pigsties. Instead, advanced processing data for individual behaviors, such as visit times in the feeding and resting areas and the number of movements between these areas, are required. Numerically measuring the movements of individual pigs in the pigsty is a precondition for obtaining these data. This paper proposes a monitoring scheme of a large herd of pigs for individual identification and counting. As a technical solution, a monitoring system is developed using Bluetooth low-energy (BLE) tags and wireless broadband leaky coaxial cable (WBLCX) antennas. The monitoring system collects access data transmitted from the BLE tags attached to individual pigs. Then the monitoring scheme estimates the location and movement of each pig by computing the collected data. A series of experiments was conducted to evaluate the detection characteristics between the BLE tags and the WBLCX antennas and to show their performances. In addition, the effectiveness for the proposed area-determination algorithm and the monitoring system was verified by field experiments on a pig farm in Japan. Our experimental results are summarized as follows. First, data comparisons between the area-determination algorithm and visual inspections confirmed the validity of the proposed monitoring scheme. Secondly, by the monitoring scheme, the area movements and the dwell times of pigs in a pigsty could be investigated. From the experimental results, the use of the proposed monitoring is expected to be able to observe the locations and movements for large herds of pigs in the pigsty. This paper proposes a monitoring scheme based on identifying and counting of individual pigs, explains the details of the monitoring scheme on the basis of hardware configurations, and verifies its effectiveness and feasibility via experiments.
+DA  - 2022///
+PY  - 2022
+DO  - 10.1016/j.compag.2022.107070
+VL  - 198
+SP  - 107070
+J2  - Computers and Electronics in Agriculture
+SN  - 0168-1699
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169922003878
+AN  - rayyan-559205263
+Y2  - 0007/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Monitoring system
+KW  - Area-trace determination
+KW  - BLE tag
+KW  - Individual pig
+KW  - Movement and location
+KW  - WBLCX antenna
+ER  - 
+
+TY  - JOUR
+TI  - Assessing sheep behavior through low-power microcontrollers in smart agriculture scenarios
+AU  - Nóbrega, Luís
+AU  - Gonçalves, Pedro
+AU  - Antunes, Mário
+AU  - Corujo, Daniel
+T2  - Computers and Electronics in Agriculture
+AB  - Automatic animal monitoring can bring several advantages to the livestock sector. The emergence of low-cost and low-power miniaturized sensors, together with the ability of handling huge amounts of data, has led to a boost of new intelligent farming solutions. One example is the SheepIT solution that is being commercialized by iFarmtec. The main objectives of the solution are monitoring the sheep’s posture while grazing in vineyards, and conditioning their behaviour using appropriate stimuli, such that they only feed from the ground or from the lower branches of the vines. The quality of the monitoring procedure has a linear correlation with the animal condition capability of the solution, i.e., on the effectiveness of the applied stimuli. Thus, a Real-Time mechanism capable of identifying animal behaviour such as infraction, eating, walking or running movements and standing position is required. On a previous work we proposed a solution based on low-power microcontrollers enclosed in collars wearable by sheep. Machine Learning techniques have been rising as a useful tool for dealing with big amounts of data. From the wide range of techniques available, the use of Decision Trees is particularly relevant since it allows the retrieval of a set of conditions easily transformed in lightweight machine code. The goal of this paper is to evaluate an enhanced animal monitoring mechanism and compare it to existing ones. In order to achieve this goal, a real deployment scenario was availed to gather relevant data from sheep’s collar. After this step, we evaluated the impact of several feature transformations and pre-processing techniques on the model learned from the system. Due to the natural behaviour of sheep, which spend most of the time grazing, several pre-processing techniques were tested to deal with the unbalanced dataset, particularly resorting on features related with stateful history. Albeit presenting promising results, with accuracy over 96%, these features resulted in unfeasible implementations. Hence, the best feasible model was achieved with 10 features obtained from the sensors’ measurements plus an additional temporal feature. The global accuracy attained was above 91%. Howbeit, further research shall assess a way of dealing with this kind of unbalanced datasets and take advantage of the insights given by the results achieved when using the state’s history.
+DA  - 2020///
+PY  - 2020
+DO  - 10.1016/j.compag.2020.105444
+VL  - 173
+SP  - 105444
+J2  - Computers and Electronics in Agriculture
+SN  - 0168-1699
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169920300144
+AN  - rayyan-559205238
+Y2  - 0006/01/01/
+N1  - <p>Times Cited in Web of Science Core Collection:&nbsp;&nbsp;25<br/>Total Times Cited:&nbsp;&nbsp;37<br/>Cited Reference Count:&nbsp;&nbsp;37</p> | RAYYAN-INCLUSION: {"Maosong"=>"Included"}
+KW  - Machine learning
+KW  - Sheep
+KW  - Animal behaviour
+KW  - Decision trees
+KW  - Microcontrollers
+KW  - ACCELEROMETER
+KW  - ANIMAL BEHAVIOR
+KW  - AUTOMATIC CLASSIFICATION-SYSTEM
+KW  - MODEL
+KW  - RESTING BEHAVIOR
+ER  - 
+
+TY  - JOUR
+TI  - Technical note: Evaluation of a wireless pulse oximeter for measuring arterial oxygen saturation and pulse rate in newborn Holstein Friesian calves.
+AU  - Kanz, P.
+AU  - Krieger, S.
+AU  - Drillich, M.
+AU  - Iwersen, M.
+T2  - Journal of dairy science
+AB  - Pulse oximetry is a well-established technique in human and veterinary medicine. In farm animals, it could also be a useful tool for the detection of critical  conditions relating to oxygen supply and the cardiovascular system. Among other  uses, an innovative application could be the monitoring of fetuses during birth.  This could help in the early identification of critical situations and support  farmers and veterinarians in their decision to start obstetric or life-support  interventions. Until now, however, its use in ruminant medicine was still limited  to experimental applications. The objective of this study was to evaluate the  accuracy of the Radius-7 Wearable Pulse CO-Oximeter (Masimo Corporation, Irvine,  CA) for monitoring vital parameters in newborn calves. All measurements were  conducted on animals in the lying down position. The sensor of the pulse oximeter  was placed in the interdigital space of the calves' front legs and fixed with a  homemade latex hoof cover. The pulsoximetric measurements of arterial oxygen  saturation (SpO(2)) in 40 newborn calves were compared with the corresponding  results (SaO(2)) from a portable blood gas analyzer (VetScan iStat1, Abaxis Inc.,  Union City, CA), which served as the reference. For this, an arterial blood  sample was taken from the medial intermediate branch of the caudal auricular  artery. In addition, the pulse rate was measured in 10 calves aged between 0 and  7 d with the pulse oximeter and simultaneously with a heart rate belt (Polar  Equine Belt, Polar Electro Oy, Kempele, Finland) to determine their level of  agreement. Spearman correlation coefficient for oxygen saturation was 93.8% for  the pulse oximeter and the blood gas analyzer, and 97.7% for the pulse rate  measured with the pulse oximeter and the heart rate belt. Bland-Altman plots  revealed an overestimation of SaO(2) by 2.95 ± 6.39% and an underestimation of  the pulse rate by -0.41 ± 3.18 beats per minute compared with the corresponding  reference methods. In summary, the pulse oximeter is suitable for continuous  monitoring of arterial oxygen saturation and pulse in newborn Holstein Friesian  calves. For practical use, purpose-built technical equipment is required to  attach the sensor to the calves' legs.
+CY  - United States
+DA  - 2018///
+PY  - 2018
+DO  - 10.3168/jds.2017-14266
+VL  - 101
+IS  - 7
+SP  - 6437
+EP  - 6442
+J2  - J Dairy Sci
+LA  - eng
+SN  - 1525-3198 0022-0302
+AN  - rayyan-559204974
+Y2  - 0007/01/01/
+N1  - <p>Times Cited in Web of Science Core Collection:&nbsp;&nbsp;12<br/>Total Times Cited:&nbsp;&nbsp;13<br/>Cited Reference Count:&nbsp;&nbsp;20</p> | RAYYAN-INCLUSION: {"Maosong"=>"Included"}
+KW  - Animals
+KW  - Humans
+KW  - monitoring
+KW  - *Cattle
+KW  - Blood Gas Analysis/instrumentation/methods/*veterinary
+KW  - calf
+KW  - Heart Rate/*physiology
+KW  - Oximetry/instrumentation/methods/*veterinary
+KW  - Oxygen/*blood
+KW  - pulse oximetry
+KW  - vital parameter
+KW  - ACCURACY
+KW  - PRECISION
+ER  - 
+
+TY  - JOUR
+TI  - Evaluating virtual fencing as a tool to manage beef cattle for rotational grazing across multiple years
+AU  - Harland, Alexandra J.
+AU  - Novais, Francisco J.
+AU  - Fitzsimmons, Carolyn J.
+AU  - Church, John S.
+AU  - da Silva, Gleise M.
+AU  - Londono-Mendez, Maria C.
+AU  - Bork, Edward W.
+T2  - Journal of Environmental Management
+AB  - Virtual fencing (VF) is a technology drawing attention for the management of grazing livestock under open-range conditions. This study investigated the use of VF collars to facilitate summer rotational grazing of beef cattle heifers and cow-calf pairs. Specifically, we evaluated the ability of cattle to initially learn and adapt to VF technology, and thereafter control their temporal and spatial use of pastures during the grazing season. Two years of rotational grazing were conducted using Nofence VF collars, with cattle also fitted with leg-mounted activity sensors. The first year involved yearling heifers naïve to VF, with the second year using the same animals as first-calf cows with calves. Heifers adapted to VF boundaries in 5–7 days, with an electrical pulse to audio cue ratio (E:A) of 17.9 % (±18.4) during training, decreasing to 5.2 % (±11.2) while rotational grazing. One year later, cows with prior VF experience had an E:A ratio of 1.6 % (±1.1 %) and 2.2 % (±1.6 %) during re-training and grazing, respectively. Cattle remained within VF boundaries more than 99 % of the time, though learning patterns varied by animal cohorts (age/reproductive groups), and among individuals. No associations were found between the number of VF stimuli and animal characteristics or performance. Animals with greater movement, as exhibited by step counts, experienced greater audio cues (rs ≥ +0.087), and as heifers, greater electrical pulses (rs = +0.21). Stocking rate had a direct positive association with the frequency of audio cues (rs = +0.36) and electrical pulses (rs = +0.25) for cows, but not heifers. We conclude that cattle can readily learn and be compliant with VF boundaries, and that VF technology can be used to facilitate rotational grazing through the remote movement of cattle among virtual paddocks. Overall, these findings support VF's potential to enhance cattle management flexibility and control forage use, thereby providing an innovative ‘fenceless’ tool to balance ongoing pasture use with grassland sustainability.
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.jenvman.2025.125166
+VL  - 381
+SP  - 125166
+J2  - Journal of Environmental Management
+SN  - 0301-4797
+UR  - https://www.sciencedirect.com/science/article/pii/S0301479725011429
+AN  - rayyan-559205151
+Y2  - 0005/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Behavioral training
+KW  - Cattle containment
+KW  - Grazing systems
+KW  - Precision ranching
+KW  - Virtual herding
+KW  - Wearable cattle technology
+ER  - 
+
+TY  - JOUR
+TI  - Automated monitoring of seasonal and diurnal variation of rumination behaviour: Insights into thermotolerance management of Holstein cows
+AU  - Sammad, Abdul
+AU  - Luo, Hanpeng
+AU  - Qiu, Wenqing
+AU  - Galindez, Jose M.
+AU  - Wang, Yan
+AU  - Guo, Gang
+AU  - Huang, Xixia
+AU  - Wang, Yachun
+T2  - New advances in measurement and data processing techniques for Agriculture, Food and Environment.
+AB  - To evaluate various influencing factors of rumination time (RT) variation in Holstein cattle in China, data from 38 consecutive months from 864 lactating cows using three-axis accelerometer based wearable neck sensors were collected. Year, season, parity, THI, bihourly rumination time in minutes (R2h), and days in milk (DIM) had a significant effect on the diurnal rhythm of rumination. The average daily rumination time in minutes (DRT) was 527, increased in spring (550), and declined in summer (514). A prenatal decline in DRT from 557 at −18DIM to 344 at DIM0 and its gradual rise (597) on DIM4, gave valuable insights regarding periparturient management. A stable return of DRT was observed by DIM30, later rumination time gradually decreased with increasing DIM. From 22:00 to 04:00 the R2h was higher and had a strong correlation (0.45) with DRT. Milking and feeding time drop in R2h pattern, though significant (P < 0.05), was consistent between concerning parity and season. The average DRT of the first parity cows was lower (29 min/d) than multiparous cows, while this difference was greater (47 min d−1) in summer. DRT reached the highest daily average upon THI63–65, decreased gradually in winter, and touched the lowest during extreme summer. A chronological influencing concomitance of THI63 and THI68 with the RT of dairy cows provided valuable insights into THI thresholds for RT decline and heat stress. RT was maximum at THI63, while higher the duration spent above the THI thresholds of 68 and 72, more pronounced was the RT decline.
+DA  - 2022///
+PY  - 2022
+DO  - 10.1016/j.biosystemseng.2021.12.002
+VL  - 223
+SP  - 115
+EP  - 128
+J2  - Biosystems Engineering
+SN  - 1537-5110
+UR  - https://www.sciencedirect.com/science/article/pii/S1537511021003032
+AN  - rayyan-559205171
+Y2  - 0011/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Wearable sensors
+KW  - Diurnal variation
+KW  - Holstein
+KW  - Rumination time
+KW  - Season
+KW  - Temperature–humidity index
+ER  - 
+
+TY  - JOUR
+TI  - Tracking the Impact of Weather on Equine Activity While Pastured
+AU  - Keller, Gretel A.
+AU  - Nielsen, Brian D.
+AU  - Vergara-Hernandez, Fernando B.
+AU  - Robison, Cara I.
+T2  - Journal of Equine Veterinary Science
+AB  - Keeping horses outdoors on pasture full-time with free access to shelter holds numerous advantages over housing in stalls, promoting both better mental and physical health. One reason for these benefits is the potential for increased physical activity in horses outdoors on pasture versus those confined to stalls. However, it is not guaranteed the horse will take advantage of this opportunity for greater movement. For this reason, it is important to understand the various reasons why horse activity patterns change. The objective of this study was to investigate how various weather factors – including temperature, humidity, precipitation, and wind speed – directly affect equine movement. To achieve this, horses on two similarly-managed farms were equipped with triaxial accelerometers during five independent time periods from January to August. These devices tracked number of steps, standing time, time lying down, and number of lying bouts. The movement data were then compared to the corresponding weather conditions. No strong correlations were found between the recorded movement of the horses and any of the environmental conditions. However, differences in average number of steps and average time lying down were observed between farms and across testing periods, suggesting other influences such as ground conditions and the use of blankets. Further studies are needed to determine the best management practices to encourage pasture activity and support optimal equine physical health.
+DA  - 2022///
+PY  - 2022
+DO  - 10.1016/j.jevs.2022.104052
+VL  - 116
+SP  - 104052
+J2  - Journal of Equine Veterinary Science
+SN  - 0737-0806
+UR  - https://www.sciencedirect.com/science/article/pii/S0737080622001903
+AN  - rayyan-559205270
+Y2  - 0009/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Behavior
+KW  - IceQube
+KW  - Movement
+KW  - Time budget
+KW  - Weather
+ER  - 
+
+TY  - JOUR
+TI  - Determination of an implantation area for interstitial fluid extraction in cows and feasibility of adapted microneedles
+AU  - Simon, Juliette
+AU  - Mailley, Pascal
+AU  - Pin, Didier
+AU  - Mailley, Sophie
+AU  - Alava, Thomas
+AU  - Ferlay, Anne
+AU  - Blanc, Fabienne
+T2  - Biosystems Engineering
+AB  - We present a preliminary study of a wearable system to monitor biomarkers for dairy and suckling cattle. Finding the optimal location on the cow body (ears) and designing the adapted microneedles to reach the interstitial fluids underneath the cow skin are the two points addressed here. For the selection of the location, 4 breeds of suckling cows (Aubrac, Charolaise, Limousine, Salers) and 3 breeds of dairy cows (Abondance, Montbéliarde, Holstein) were chosen. Measurements of the thickness of the ear tissues were conducted on three areas of the ear (top, apex and base of the pinna), on the external and internal sides. Results show that the apex of the pinna, external side, is the best area for microneedle implantation with an implantation window of 1403 ± 589 μm (DeepDe), considering all breeds. To reach this implantation window located between the stratum corneum and the cartilage, the microneedle has to pass through 1323 ± 404 μm of tissues (SupDe), considering all breeds. From these results, a microneedle design was made on SolidWorks. With a conical shape 2.89 mm in height and a conical channel 300 μm in diameter (at the tip of the microneedle), the model was made using 3D printing. The resulting microneedles respect the SolidWorks design with fair accuracy. They were connected to a microfluidic channel for sampling or releasing fluids.
+DA  - 2022///
+PY  - 2022
+DO  - 10.1016/j.biosystemseng.2022.07.007
+VL  - 222
+SP  - 62
+EP  - 70
+J2  - Biosystems Engineering
+SN  - 1537-5110
+UR  - https://www.sciencedirect.com/science/article/pii/S1537511022001696
+AN  - rayyan-559205089
+Y2  - 0010/01/01/
+N1  - <p>RAYYAN-INCLUSION: {"Maosong"=>"Included"}</p>
+KW  - Livestock
+KW  - 3D printing
+KW  - Biosensor
+KW  - Cow
+KW  - Microneedles
+ER  - 
+
+TY  - JOUR
+TI  - Animal behavior classification via deep learning on embedded systems
+AU  - Arablouei, R
+AU  - Wang, L
+AU  - Currie, L
+AU  - Yates, J
+AU  - Alvarenga, F.A.P
+AU  - Bishop-Hurley, G.J
+T2  - Comput. Electron. Agric. 207
+DA  - 2023///
+PY  - 2023
+DO  - 10.1016/j.compag.2023.107707
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Multimodal sensor data fusion for in-situ classification of animal behavior using accelerometry and GNSS data
+AU  - Arablouei, R
+AU  - Wang, Z
+AU  - Bishop-Hurley, G.J
+AU  - Liu, J
+T2  - Smart Agricultural Technology 4
+DA  - 2023///
+PY  - 2023
+DO  - 10.1016/j.atech.2022.100163
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Continuous Respiration Rate Measurement of Heat-Stressed Dairy Cows and Relation to Environment, Body Temperature, and Lying Time
+AU  - Atkins, I.K
+AU  - Cook, N.B
+AU  - Mondaca, M.R
+AU  - Choi, C.Y
+T2  - Trans. ASABE
+DA  - 2018///
+PY  - 2018
+DO  - 10.13031/trans.12451
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Classification of sows’ activity types from acceleration patterns using univariate and multivariate models
+AU  - Cornou, C
+AU  - Lundbye-Christensen, S
+T2  - Comput. Electron. Agric
+DA  - 2010///
+PY  - 2010
+DO  - 10.1016/j.compag.2010.01.006
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Behavioral Fingerprinting: Acceleration Sensors for Identifying Changes in Livestock Health
+AU  - Fan, B
+AU  - Bryant, R
+AU  - Greer, A
+T2  - J (Basel). 5
+DA  - 2022///
+PY  - 2022
+DO  - 10.3390/j5040030
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Embedded neural network for real-time animal behavior classification
+AU  - Gutierrez-Galan, D
+AU  - Dominguez-Morales, J.P
+AU  - Cerezuela-Escudero, E
+AU  - Rios-Navarro, A
+AU  - Tapiador-Morales, R
+AU  - Rivas-Perez, M
+AU  - Dominguez-Morales, M
+AU  - Jimenez-Fernandez, A
+AU  - Linares-Barranco, A
+T2  - Neurocomputing
+DA  - 2018///
+PY  - 2018
+DO  - 10.1016/j.neucom.2017.03.090
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Multilevel-teaching/training practice on GNSS principle and application for undergraduate educations: A case study in China
+AU  - He, X
+AU  - Yu, K
+AU  - Huang, Z
+AU  - Montillet, J.P
+AU  - Lu, T
+AU  - Lan, X
+AU  - Xiao, G
+AU  - Ma, X
+AU  - Zhou, H
+AU  - Chen, Y
+T2  - Advances in Space Research
+DA  - 2022///
+PY  - 2022
+DO  - 10.1016/j.asr.2021.11.021
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - A New Approach to Recording Rumination Behavior in Dairy Cows
+AU  - Hoffmann, G
+AU  - Strutzke, S
+AU  - Fiske, D
+AU  - Heinicke, J
+AU  - Mylostyvyi, R
+T2  - Sensors
+DA  - 2024///
+PY  - 2024
+DO  - 10.3390/s24175521
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Validation of a Polar® human heart rate monitor for measuring heart rate and heart rate variability in adult dogs under stationary conditions
+AU  - Jonckheer-Sheehy, V.S.M
+AU  - Vinke, C.M
+AU  - Ortolani, A
+T2  - Journal of Veterinary Behavior
+DA  - 2012///
+PY  - 2012
+DO  - 10.1016/j.jveb.2011.10.006
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Data fusion of acceleration and angular velocity for improved model updating
+AU  - Kim, H
+AU  - Cho, S
+AU  - Sim, S.H
+T2  - Measurement
+DA  - 2016///
+PY  - 2016
+DO  - 10.1016/j.measurement.2016.04.075
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Validation of a Time-Distributed residual LSTM–CNN and BiLSTM for equine behavior recognition using collar-worn sensors
+AU  - Kirsch, K
+AU  - Strutzke, S
+AU  - Klitzing, L
+AU  - Pilger, F., Thöne-Reineke, C
+AU  - Hoffmann, G
+T2  - Comput. Electron. Agric
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.compag.2025.109999
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Estrous detection by monitoring ventral tail base surface temperature using a wearable wireless sensor in cattle
+AU  - Miura, R
+AU  - Yoshioka, K
+AU  - Miyamoto, T
+AU  - Nogami, H
+AU  - Okada, H
+AU  - Itoh, T
+T2  - Anim. Reprod. Sci
+DA  - 2017///
+PY  - 2017
+DO  - 10.1016/j.anireprosci.2017.03.002
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Wearable wireless temperature sensor nodes appressed to base of a calf’s tail
+AU  - Nogami, H
+AU  - Okada, H
+AU  - Miyamoto, T
+AU  - Maeda, R
+AU  - Itoh, T
+T2  - Sensors and Materials
+DA  - 2014///
+PY  - 2014
+DO  - 10.18494/sam.2014.1043
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - High Precision Classification of Resting and Eating Behaviors of Cattle by Using a Collar-Fitted Triaxial Accelerometer Sensor
+AU  - Nogoy, K.M.C
+AU  - Chon, S. Il
+AU  - Park, J.H
+AU  - Sivamani, S
+AU  - Lee, D.H
+AU  - Choi, S.H
+T2  - Sensors 22
+DA  - 2022///
+PY  - 2022
+DO  - 10.3390/s22165961
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - A laser-Engraved Wearable Electrochemical Sensing Patch for Heat Stress Precise Individual Management of Horse
+AU  - Pan, Y
+AU  - Su, X
+AU  - Liu, Y
+AU  - Fan, P
+AU  - Li, X
+AU  - Ying, Y
+AU  - Ping, J
+T2  - Advanced Science
+DA  - 2024///
+PY  - 2024
+DO  - 10.1002/advs.202310069
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Comparison of Polar® heart rate interval data with simultaneously recorded ECG signals in horses
+AU  - Parker, M
+AU  - Goodwin, D
+AU  - Eager, R.A
+AU  - Redhead, E.S
+AU  - Marlin, D.J
+T2  - Comp. Exerc. Physiol
+DA  - 2009///
+PY  - 2009
+DO  - 10.1017/s1755254010000024
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Dam behavior patterns in Japanese black beef cattle prior to calving: Automated detection using LSTM-RNN
+AU  - Peng, Y
+AU  - Kondo, N
+AU  - Fujiura, T
+AU  - Suzuki, T
+AU  - Ouma, S
+AU  - Wulandari
+AU  - Yoshioka, H
+AU  - Itoyama, E
+T2  - Comput. Electron. Agric. 169
+DA  - 2020///
+PY  - 2020
+DO  - 10.1016/j.compag.2019.105178
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Classification of individual dairy cow behaviors using accelerometer, gyroscope, and integrated sensor models
+AU  - Pongsanun, K
+AU  - Apirak, T
+AU  - Aekaluck, L
+AU  - Sanphet, C
+AU  - Chaidate, I
+T2  - BMC Vet. Res. 21
+DA  - 2025///
+PY  - 2025
+DO  - 10.1186/s12917-025-05092-1
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Deep Learning for Laying Hen Activity Recognition Using Wearable Sensors
+AU  - Shahbazi, M
+AU  - Mohammadi, K
+AU  - Derakhshani, S.M., Groot Koerkamp, P.W.G
+T2  - Agriculture (Switzerland) 13
+DA  - 2023///
+PY  - 2023
+DO  - 10.3390/agriculture13030738
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Online abrupt displacement detection based on autoencoder from GNSS kinematic positioning results
+AU  - Shen, N
+AU  - Sun, Z
+AU  - Ma, H
+AU  - Xing, G
+AU  - Zhao, W
+AU  - Wang, L
+AU  - Li, Z
+AU  - Xu, J
+AU  - Chen, L
+T2  - Measurement
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.measurement.2025.118244
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Assessment of a non-invasive acoustic sensor for detecting cattle urination events
+AU  - Shorten, P.R
+AU  - Welten, B.G
+T2  - Biosyst. Eng
+DA  - 2021///
+PY  - 2021
+DO  - 10.1016/j.biosystemseng.2021.05.003
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Acoustic sensors for automated detection of cow vocalization duration and type
+AU  - Shorten, P.R
+AU  - Hunter, L.B
+T2  - Comput. Electron. Agric
+DA  - 2023///
+PY  - 2023
+DO  - 10.1016/j.compag.2023.107760
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Wearable multi-sensor enabled decision support system for environmental comfort evaluation of mutton sheep farming
+AU  - Wang, L
+AU  - Zhang, M
+AU  - Li, Y
+AU  - Xia, J
+AU  - Ma, R
+T2  - Comput. Electron. Agric. 187
+DA  - 2021///
+PY  - 2021
+DO  - 10.1016/j.compag.2021.106302
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Aggressive behavior recognition and welfare monitoring in yellow-feathered broilers using FCTR and wearable identity tags
+AU  - Xue, H
+AU  - Ma, J
+AU  - Yang, Y
+AU  - Qu, H
+AU  - Wang, L
+AU  - Li, L
+T2  - Comput. Electron. Agric
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.compag.2025.110284
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - A novel credibility evaluation and mitigation for ranging measurement in UWB localization
+AU  - Yang, H
+AU  - Wang, Y.J
+AU  - Seow, C.K
+AU  - Sun, M
+AU  - Joseph, W
+AU  - Plets, D
+T2  - Measurement
+DA  - 2025///
+PY  - 2025
+DO  - 10.1016/j.measurement.2025.117721
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Wearable Device to Monitor Sheep Behavior
+AU  - Campiotti, V
+AU  - Finozzi, N
+AU  - Irazoqui, J
+AU  - Cabrera, V
+AU  - Ungerfeld, R
+AU  - Oreggioni, J
+T2  - IEEE Embed. Syst. Lett
+DA  - 2023///
+PY  - 2023
+DO  - 10.1109/les.2022.3190305
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Application of deep learning in sheep behaviors recognition and influence analysis of training data characteristics on the recognition effect
+AU  - Cheng, M
+AU  - Yuan, H
+AU  - Wang, Q
+AU  - Cai, Z
+AU  - Liu, Y
+AU  - Zhang, Y
+T2  - Comput. Electron. Agric
+DA  - 2022///
+PY  - 2022
+DO  - 10.1016/j.compag.2022.107010
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Black cattle body shape and temperature measurement using thermography and KINECT sensor
+AU  - Kawasue, K
+AU  - Win, K.D
+AU  - Yoshida, K
+AU  - Tokunaga, T
+T2  - Artif. Life Robot
+DA  - 2017///
+PY  - 2017
+DO  - 10.1007/s10015-017-0373-2/figures/16
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Parturition detection in sows as test case for measuring activity behaviour in farm animals by means of radar sensors
+AU  - Manteuffel, C
+T2  - Biosyst. Eng
+DA  - 2019///
+PY  - 2019
+DO  - 10.1016/j.biosystemseng.2019.06.018
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - A dynamic reconfigurable wearable device to acquire high quality PPG signal and robust heart rate estimate based on deep learning algorithm for smart healthcare system
+AU  - Ngoc-Thang, B., Tien Nguyen, T.M
+AU  - Truong, T.T
+AU  - Nguyen, B.L.H
+AU  - Nguyen, T.T
+T2  - Biosens. Bioelectron. X 12
+DA  - 2022///
+PY  - 2022
+DO  - 10.1016/j.biosx.2022.100223
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Open-Source Wearable Sensors for Behavioral Analysis of Sheep Undergoing Heat Stress
+AU  - Reis, B.R. dos
+AU  - Nguyen, T
+AU  - Sujani, S
+AU  - White, R.R
+T2  - Applied Sciences (Switzerland) 13
+DA  - 2023///
+PY  - 2023
+DO  - 10.3390/app13169281
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Validation of a pressure sensor-based system for measuring eating, rumination and drinking behaviour of dairy cattle
+AU  - Ruuska, S
+AU  - Kajava, S
+AU  - Mughal, M
+AU  - Zehner, N
+AU  - Mononen, J
+T2  - Appl. Anim. Behav. Sci
+DA  - 2016///
+PY  - 2016
+DO  - 10.1016/j.applanim.2015.11.005
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Non-Invasive Methods of Quantifying Heat Stress Response in Farm Animals with Special Reference to Dairy Cattle
+AU  - Sejian, V
+AU  - Shashank, C.G
+AU  - Silpa, M.V
+AU  - Madhusoodan, A.P
+AU  - Devaraj, C
+AU  - Koenig, S
+T2  - Atmosphere (Basel)
+DA  - 2022///
+PY  - 2022
+DO  - 10.3390/atmos13101642
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Acoustic sensors to detect the rate of cow vocalization in a complex farm environment
+AU  - Shorten, P.R
+AU  - Hunter, L.B
+T2  - Appl. Anim. Behav. Sci. 278
+DA  - 2024///
+PY  - 2024
+DO  - 10.1016/j.applanim.2024.106377
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Machine Learning-Based Respiration Rate and Blood Oxygen Saturation Estimation Using Photoplethysmogram Signals
+AU  - Shuzan, M.N.I
+AU  - Chowdhury, M.H
+AU  - Chowdhury, M.E.H
+AU  - Murugappan, M., Hoque Bhuiyan, E., Arslane Ayari, M
+AU  - Khandakar, A
+T2  - Bioengineering 10
+DA  - 2023///
+PY  - 2023
+DO  - 10.3390/bioengineering10020167
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Automatic recognition and classification of cattle chewing activity by an acoustic monitoring method with a single-axis acceleration sensor
+AU  - Tani, Y
+AU  - Yokota, Y
+AU  - Yayota, M
+AU  - Ohtani, S
+T2  - Comput. Electron. Agric
+DA  - 2013///
+PY  - 2013
+DO  - 10.1016/j.compag.2013.01.001
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Identification and classification for sheep foraging behavior based on acoustic signal and deep learning
+AU  - Wang, K
+AU  - Wu, P
+AU  - Cui, H
+AU  - Xuan, C
+AU  - Su, H
+T2  - Comput. Electron. Agric
+DA  - 2021///
+PY  - 2021
+DO  - 10.1016/j.compag.2021.106275
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - An automatic classifier for monitoring applied behaviors of cage-free laying hens with deep learning
+AU  - Yang, X
+AU  - Bist, R
+AU  - Subedi, S
+AU  - Wu, Z
+AU  - Liu, T
+AU  - Chai, L
+T2  - Eng. Appl. Artif. Intell. 123
+DA  - 2023///
+PY  - 2023
+DO  - 10.1016/j.engappai.2023.106377
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - System specification and validation of a noseband pressure sensor for measurement of ruminating and eating behavior in stable-fed cows
+AU  - Zehner, N., Umstätter, C
+AU  - Niederhauser, J.J
+AU  - Schick, M
+T2  - Comput. Electron. Agric
+DA  - 2017///
+PY  - 2017
+DO  - 10.1016/j.compag.2017.02.021
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - Technical note: Development of a noninvasive respiration rate sensor for cattle
+AU  - Strutzke, S
+AU  - Fiske, D
+AU  - Hoffmann, G
+AU  - Ammon, C
+AU  - Heuwieser, W
+AU  - Amon, T
+T2  - J. Dairy Sci
+DA  - 2019///
+PY  - 2019
+DO  - 10.3168/jds.2018-14999
+N1  - <p>Extracted from Matched_40.xlsx; source status: Matched by DOI</p>
+ER  - 
+
+TY  - JOUR
+TI  - High sensitivity, fast response and anti-interference crack-based reduced graphene oxide strain sensor for pig acoustic recognition
+AU  - Li, Jing
+AU  - Liao, Ziqi
+AU  - Liang, Tao
+AU  - Zhang, Sam
+AU  - Tang, Bo
+AU  - Fu, Xinglan
+AU  - Li, Guanglin
+AU  - Huang, Yuehua
+T2  - Computers and Electronics in Agriculture
+AB  - With the development of precision pig industry and the growing demands for pork products, it is of great significance to monitor the health of pigs. The reported detection methods suffer harmful, time-consuming, complex and expensive. Acoustic detection is a simple and effective contactless method to judge the health status of pigs. Strain sensor as an important contactless method has attracted wide research interest in acoustic detection. However, most strain sensors cannot accurately detect pig sounds due to their low sensitivity, slow response, and susceptibility to interference. In this work, a crack-based rGO strain sensor is proposed and exhibits unique “half-open, half-close” microstructures. The strain changes the crack gaps, resulting in the resistance of sensor increases. The sensor exhibits high sensitivity and fast response in a wide frequency range from 110 Hz to 5000 Hz and its ΔR/R0 increases monotonically with increasing acoustic intensity. In addition, the rGO sensor is directional and thus has anti-interference ability to noise. The rGO sensor is applied for pig acoustic recognition and the measured results agree well with the original audios. In conclusion, the crack-based rGO strain sensor with high sensitivity, fast response and anti-interference shows great potential for pig acoustic recognition and its detected results can provide a reference for pig health monitoring.
+DA  - 2022/09/01/
+PY  - 2022
+DO  - 10.1016/j.compag.2022.107267
+VL  - 200
+SP  - 107267
+J2  - Computers and Electronics in Agriculture
+SN  - 0168-1699
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169922005804
+KW  - Strain sensor
+KW  - Anti-interference
+KW  - Crack
+KW  - Fast response
+KW  - High sensitivity
+KW  - Pig acoustic recognition
+KW  - rGO
+ER  - 
+
+TY  - JOUR
+TI  - Hierarchical model with integrated probabilistic strategy for classifying pig behaviors using active electronic ear tags
+AU  - Lin, Junyong
+AU  - Wu, Runkang
+AU  - Yin, Ling
+AU  - Wang, Xueyin
+AU  - Chen, Hongyu
+AU  - Cai, Gengyuan
+AU  - Wu, Zhenfang
+AU  - Yang, Ming
+AU  - Yang, Jie
+AU  - Zhang, Sumin
+T2  - Computers and Electronics in Agriculture
+AB  - This paper studies the behavior monitoring of pigs using active electronic ear tags embedded with triaxial acceleration sensors. Ear-flapping can cause high variability and noise into the accelerometer data. To address this issue, a three-layer classification model is proposed. Each layer utilizes different window sizes, overlap rates, features, and machine learning models to effectively classify behaviors ranging from low to high locomotor activity. Model parameters for each layer calculate probabilities for different behaviors, and a probabilistic strategy merges consecutive time slices of the same behavior, similar to dynamic window effects. The experiment collected triaxial acceleration data from 16 sows over 274 days. Video data from surveillance cameras were used to annotate pigs’ behaviors such as eating and walking. Data analysis shows that the first layer, using a logistic regression model with a 135.2-second window size, achieves a 0.95 recognition rate for low locomotor activity. The second layer, employing a logistic regression model with a 25.92-second window size, achieves a recognition rate of 0.76 for eating behavior. The third layer, using a support vector machine model with a 10.56-second window size, attains recognition rates of 0.88, 0.75, and 0.76 for sitting, walking, and high locomotor activity, respectively. The random forest based probabilistic strategy integrates the results of the three-layer classification model to classify behaviors throughout the day, achieving an average accuracy of 0.92. This three-layer classification model with a probabilistic strategy effectively classifies 24-hour behaviors and detects abnormalities such as lameness and vomiting in the experimental pigs.
+DA  - 2025/03/01/
+PY  - 2025
+DO  - 10.1016/j.compag.2025.109915
+VL  - 230
+SP  - 109915
+J2  - Computers and Electronics in Agriculture
+SN  - 0168-1699
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169925000213
+KW  - Machine learning
+KW  - Behavior classification
+KW  - Active electronic ear tag
+KW  - Dynamic window
+KW  - Triaxial acceleration
+ER  - 
+
+TY  - JOUR
+TI  - A noise-robust acoustic method for recognizing foraging activities of grazing cattle
+AU  - Martinez-Rau, Luciano S.
+AU  - Chelotti, José O.
+AU  - Ferrero, Mariano
+AU  - Galli, Julio R.
+AU  - Utsumi, Santiago A.
+AU  - Planisich, Alejandra M.
+AU  - Rufiner, H. Leonardo
+AU  - Giovanini, Leonardo L.
+T2  - Computers and Electronics in Agriculture
+AB  - Farmers must continuously improve their livestock production systems to remain competitive in the growing dairy market. Precision livestock farming technologies provide individualized monitoring of animals on commercial farms, optimizing livestock production. Continuous acoustic monitoring is a widely accepted sensing technique used to estimate the daily rumination and grazing time budget of free-ranging cattle. However, typical environmental and natural noises on pastures noticeably affect the performance limiting the practical application of current acoustic methods. In this study, we present the operating principle and generalization capability of an acoustic method called Noise-Robust Foraging Activity Recognizer (NRFAR). The proposed method determines foraging activity bouts by analyzing fixed-length segments of identified jaw movement events produced during grazing and rumination. The additive noise robustness of the NRFAR was evaluated for several signal-to-noise ratios using stationary Gaussian white noise and four different nonstationary natural noise sources. In noiseless conditions, NRFAR reached an average balanced accuracy of 86.4%, outperforming two previous acoustic methods by more than 7.5%. Furthermore, NRFAR performed better than previous acoustic methods in 77 of 80 evaluated noisy scenarios (53 cases with p<0.05). NRFAR has been shown to be effective in harsh free-ranging environments and could be used as a reliable solution to improve pasture management and monitor the health and welfare of dairy cows. The instrumentation and computational algorithms presented in this publication are protected by a pending patent application: AR P20220100910. Web demo available at: https://sinc.unl.edu.ar/web-demo/nrfar.
+DA  - 2025/02/01/
+PY  - 2025
+DO  - 10.1016/j.compag.2024.109692
+VL  - 229
+SP  - 109692
+J2  - Computers and Electronics in Agriculture
+SN  - 0168-1699
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169924010834
+KW  - Machine learning
+KW  - Precision livestock farming
+KW  - Acoustic monitoring
+KW  - Foraging behavior
+KW  - Noise robustness
+KW  - Pattern recognition
+ER  - 
+
+TY  - JOUR
+TI  - A CNN-Based Animal Behavior Recognition Algorithm for Wearable Devices
+AU  - Z. Pan
+AU  - H. Chen
+AU  - W. Zhong
+AU  - A. Wang
+AU  - C. Zheng
+T2  - IEEE Sensors Journal
+AB  - In order to achieve automatic behavioral monitoring of farming animals, this article proposes a convolutional neural network (CNN)-based behavioral recognition method for lactating sows. The behavioral data streams of lactating sows are collected by wearable sensors embedded with a 3-D accelerometer and a 3-D gyroscope and used to recognize six types of behaviors, including movement, drinking, eating, nursing, sleeping, and lying. Among these behaviors, nursing, lying, and sleeping can be classified as similar static behaviors. Based on the action images constructed with sensor data streams, CNNs are leveraged for the purpose of distinguishing static behaviors of the lactating sow. To address the problem of insufficient training data, we use the data augmentation technique. Experimental results verify the data augmentation method’s effectiveness and show that our proposed behavioral monitoring method has greater advantages in terms of accuracy than traditional machine learning methods. The research results have implications for behavioral monitoring and health assessment of lactating sows.
+DA  - 2023/03/01/
+PY  - 2023
+DO  - 10.1109/JSEN.2023.3239015
+VL  - 23
+IS  - 5
+SP  - 5156
+EP  - 5164
+J2  - IEEE Sensors Journal
+SN  - 1558-1748
+N1  - <p>Times Cited in Web of Science Core Collection:&nbsp;&nbsp;20<br/>Total Times Cited:&nbsp;&nbsp;22<br/>Cited Reference Count:&nbsp;&nbsp;26</p>
+KW  - Animals
+KW  - Sensors
+KW  - Wearable sensors
+KW  - Cows
+KW  - Monitoring
+KW  - Action image
+KW  - behavior recognition
+KW  - Behavioral sciences
+KW  - convolutional neural network (CNN)
+KW  - deep learning
+KW  - Horses
+KW  - wearable device
+KW  - DAIRY-CATTLE
+ER  - 
+
+TY  - JOUR
+TI  - Technical note: a nose ring sensor system to monitor dairy cow cardiovascular and respiratory metrics.
+AU  - Salzer, Yael
+AU  - Lidor, Guy
+AU  - Rosenfeld, Lavie
+AU  - Reshef, Liad
+AU  - Shaked, Ben
+AU  - Grinshpun, Joseph
+AU  - Honig, Hen H.
+AU  - Kamer, Hadar
+AU  - Balaklav, Moria
+AU  - Ross, Maya
+T2  - Journal of animal science
+AB  - Monitoring cardiovascular and respiratory measurements corresponds to the precision livestock farming (PLF) objective to continuously monitor and assess  dairy cows' welfare and health. Changes in heart rate, breathing rate, and oxygen  saturation (SpO2) are valuable metrics in human and veterinary medicine to assess  stress, pain, illness, and detect critical conditions. The common way to measure  heart rate is either manually or with a stethoscope. Under research conditions,  heart rate is usually measured with a sports watch chest belt. Breathing rate is  obtained by counting the cow's flank movements which is a time-consuming and  labor-intensive method that requires training and is prone to human error. No  devices are available on the market that enable practical and easy pulse oximetry  in farm animals. This study presents a wireless nose ring sensor system (NoRS)  composed of thermal and photoplothysmography sensors that attach to the nostrils  of four Holstein dairy cows. The NoRS's thermocouple measured the cow's nasal  cavity air temperature; an optic sensor measured the IR (660 nm) and RED (660 nm)  signals reflected from the cow's nasal septum. Breathing was calculated from the  thermocouple signal's center frequency with a fast Fourier transformation or the  signal peak count (i.e., oscillations). The breathing rate was compared to  breathing observed by concurrently counting the flank movements. Heart rate and  SpO2 were measured by integrated pulse oximetry and heart rate monitor module  (MAX30101 TinyCircuit) assembled on the NoRS circuit. Heart rate was also  measured with FFT and by counting the number of peaks from the optic sensor's raw  IR and RED signals. These measures were compared to an off-the-shelf hand-held  pulse oximeter's heart rate and SpO2 readings during the same time. The  comparisons revealed highly significant correlations for the heart rate readings  where the strength of the correlation was sensitive to the method. The  correlation between breathing rate and the veterinarian's visual observations was  low, albeit significant. Thus, inhale-exhale cycle counting constitutes a more  precise approach than flank movement counts. The hand-held device's 96% SpO2 is  compatible with near-saturation values expected in healthy cows. The mean NoRS  SpO2 reading was 3% less. After further piloting under field conditions, the NoRS  will require no animal restraining to automatically and continuously record cows'  breathing rate, heart rate, and SpO2.
+CY  - United States
+DA  - 2022/09/01/
+PY  - 2022
+DO  - 10.1093/jas/skac240
+VL  - 100
+IS  - 9
+J2  - J Anim Sci
+LA  - eng
+SN  - 1525-3163 0021-8812
+N1  - <p>Times Cited in Web of Science Core Collection:&nbsp;&nbsp;13<br/>Total Times Cited:&nbsp;&nbsp;15<br/>Cited Reference Count:&nbsp;&nbsp;39</p>
+KW  - Animals
+KW  - precision livestock farming
+KW  - Humans
+KW  - Cattle
+KW  - Female
+KW  - Heart Rate
+KW  - Farms
+KW  - *Oximetry/methods/veterinary
+KW  - *Respiratory Rate
+KW  - breathing rate
+KW  - dairy cow
+KW  - heart rate
+KW  - Monitoring, Physiologic/veterinary
+KW  - Oxygen
+KW  - oxygen saturation
+KW  - wearable sensor system
+KW  - HEART-RATE-VARIABILITY
+KW  - WELFARE
+KW  - TEMPERATURE
+KW  - ANIMALS
+KW  - CATTLE
+KW  - PAIN
+ER  - 
+
+TY  - JOUR
+TI  - Assessment of Ventral Tail Base Surface Temperature for the Early Detection of Japanese Black Calves with Fever.
+AU  - Sasaki, Yosuke
+AU  - Iki, Yoshihiro
+AU  - Anan, Tomoaki
+AU  - Hayashi, Jun
+AU  - Uematsu, Mizuho
+T2  - Animals : an open access journal from MDPI
+AB  - The objective in the present study was to assess the ventral tail base surface temperature (ST) for the early detection of Japanese Black calves with fever.  This study collected data from a backgrounding operation in Miyazaki, Japan, that  included 153 calves aged 3-4 months. A wearable wireless ST sensor was attached  to the surface of the ventral tail base of each calf at its introduction to the  farm. The ventral tail base ST was measured every 10 min for one month. The  present study conducted an experiment to detect calves with fever using the  estimated residual ST (rST), calculated as the estimated rST minus the mean  estimated rST for the same time on the previous 3 days, which was obtained using  machine learning algorithms. Fever was defined as an increase of ≥1.0 °C for the  estimated rST of a calf for 4 consecutive hours. The machine learning algorithm  that applied was a random forest, and 15 features were included. The variable  importance scores that represented the most important predictors for the  detection of calves with fever were the minimum and maximum values during the  last 3 h and the difference between the current value and 24- and 48-h minimum.  For this prediction model, accuracy, precision, and sensitivity were 98.8%,  72.1%, and 88.1%, respectively. The present study indicated that the early  detection of calves with fever can be predicted by monitoring the ventral tail  base ST using a wearable wireless sensor.
+CY  - Switzerland
+DA  - 2023/01/29/
+PY  - 2023
+DO  - 10.3390/ani13030469
+VL  - 13
+IS  - 3
+J2  - Animals (Basel)
+LA  - eng
+SN  - 2076-2615
+KW  - wearable sensor
+KW  - backgrounding operation
+KW  - body surface temperature
+KW  - bovine respiratory disease
+KW  - Japanese Black
+ER  - 
+
+TY  - JOUR
+TI  - Early lameness detection in dairy cattle based on wearable gait analysis using semi-supervised LSTM-Autoencoder
+AU  - Zhang, Kai
+AU  - Han, Shuqing
+AU  - Wu, Jianzhai
+AU  - Cheng, Guodong
+AU  - Wang, Yali
+AU  - Wu, Saisai
+AU  - Liu, Jifang
+T2  - Computers and Electronics in Agriculture
+AB  - Early lameness detection is crucial to ensure the welfare and productivity of dairy cows. However, current research on early lameness identification using wearable analysis relies on the limited robustness of indirect behavioral measures, which are susceptible to individual variations and imbalances in lameness samples. In this study, we propose a semi-supervised Long short-term memory (LSTM)-Autoencoder algorithm for early lameness detection in dairy cows through time series data reconstruction. We collected gait data from all four limbs of 30 dairy cows using four IMUs. A LSTM-Autoencoder with three LSTM hidden layers was trained to learn the time series features of healthy gaits. Each gait was reconstructed, and anomaly gaits exceeding a threshold were identified by comparing reconstructed gaits with actual gaits. The gait symmetry was measured by comparing the percentage of anomaly gait between opposite limbs as an indicator of lameness severity. With a high accuracy of 97.78% and a true negative rate of 98.33%, our integrated approach outperforms traditional methods in early lameness detection and lame limb identification, enabling real-time monitoring and timely identification of lameness. The study is the first attempt at using a time series anomaly detection framework with deep learning-based gait reconstruction for lameness detection. Wearable gait analysis offers portability and real-time capabilities, providing continuous, accurate, and comprehensive gait information unaffected by lighting and field-of-view limitations. This approach holds promise for enhancing animal welfare and optimizing management practices in the dairy industry through timely identification and continuous monitoring of lameness.
+DA  - 2023/10/01/
+PY  - 2023
+DO  - 10.1016/j.compag.2023.108252
+VL  - 213
+SP  - 108252
+J2  - Computers and Electronics in Agriculture
+SN  - 0168-1699
+UR  - https://www.sciencedirect.com/science/article/pii/S0168169923006403
+KW  - Autoencoder
+KW  - Early lameness detection in dairy cows
+KW  - Gait reconstruction
+KW  - Long short-term memory
+KW  - Time series anomaly detection
+ER  - 
+
